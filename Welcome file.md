@@ -8,7 +8,7 @@ A = \begin{pmatrix}
 \end{pmatrix}
 $$
 
-Ennek egy <span style="color:red;">része</span> piros.
+Ennek egy <style "color:red">része</style> piros.
 
 Python:
 
@@ -23,5 +23,5 @@ A^2 = \begin{pmatrix}
 \end{pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczOTg0MTMxLDg0NjM0Nzg4OV19
+eyJoaXN0b3J5IjpbLTk1NTU5NTU2Niw4NDYzNDc4ODldfQ==
 -->
