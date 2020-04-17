@@ -17,6 +17,8 @@ $$
 
 Ennek egy <span>része</span> piros.
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 Python:
 
 ```python
@@ -32,6 +34,6 @@ A^2 = \begin{pmatrix}
 \end{pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzg1MTUzNiwyODg4MDYzMTQsODQ2Mz
-Q3ODg5XX0=
+eyJoaXN0b3J5IjpbLTE4ODk3NDI1MywtNzQzODUxNTM2LDI4OD
+gwNjMxNCw4NDYzNDc4ODldfQ==
 -->
