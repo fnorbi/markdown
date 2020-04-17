@@ -17,7 +17,9 @@ $$
 
 Ennek egy <span>része</span> piros.
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+<span color = 'red'>some *This is Blue italic.* text</span>
+
+the <font color='blue'>test blue color font</font>
 
 Python:
 
@@ -34,6 +36,6 @@ A^2 = \begin{pmatrix}
 \end{pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk3NDI1MywtNzQzODUxNTM2LDI4OD
-gwNjMxNCw4NDYzNDc4ODldfQ==
+eyJoaXN0b3J5IjpbNTk0MDgzMjY3LC03NDM4NTE1MzYsMjg4OD
+A2MzE0LDg0NjM0Nzg4OV19
 -->
