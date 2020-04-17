@@ -8,7 +8,6 @@ A = \begin{pmatrix}
 \end{pmatrix}
 $$
 
-va
 Python:
 
     print("fa");
@@ -22,5 +21,5 @@ A^2 = \begin{pmatrix}
 \end{pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDcyOTIzNiw4NDYzNDc4ODldfQ==
+eyJoaXN0b3J5IjpbODQ2MzQ3ODg5LDg0NjM0Nzg4OV19
 -->
