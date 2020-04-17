@@ -12,7 +12,9 @@ Ennek egy <style "color:red">része</style> piros.
 
 Python:
 
-    print("fa");
+```python
+print("fa");
+```
 
 $$
 A^2 = \begin{pmatrix}  
@@ -23,5 +25,5 @@ A^2 = \begin{pmatrix}
 \end{pmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTU5NTU2Niw4NDYzNDc4ODldfQ==
+eyJoaXN0b3J5IjpbMjg4ODA2MzE0LDg0NjM0Nzg4OV19
 -->
