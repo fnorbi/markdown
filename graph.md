@@ -1,16 +1,5 @@
 # Gráfok
-\documentclass[border=10pt]{standalone}
-\usepackage{tkz-graph}
-\GraphInit[vstyle = Shade]
-\tikzset{
-  LabelStyle/.style = { rectangle, rounded corners, draw,
-                        minimum width = 2em, fill = yellow!50,
-                        text = red, font = \bfseries },
-  VertexStyle/.append style = { inner sep=5pt,
-                                font = \Large\bfseries},
-  EdgeStyle/.append style = {->, bend left} }
-\thispagestyle{empty}
-\begin{document}
+```latex {cmd=true hide=true}
 \begin{tikzpicture}
   \SetGraphUnit{5}
   \Vertex{B}
@@ -26,8 +15,8 @@
   \Edge[label = 7](A)(C)
   \Edge[label = 8](C)(A)
 \end{tikzpicture}
-\end{document}
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYyODc3MiwtMjA5NDE5MjA3OSw3Mz
+eyJoaXN0b3J5IjpbLTkwNDkxNjQyOCwtMjA5NDE5MjA3OSw3Mz
 A5OTgxMTZdfQ==
 -->
