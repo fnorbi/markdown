@@ -2,14 +2,14 @@
 
 A lánc irrecubilis, pozitív rekurrens, ezért egyértelműen létezik stacionárius eloszlása. A gráf véges, egyszerű, összefüggő, és mivel az átmenetvalószínűségek azonosak, tekinthető irányítatlannak.
 
-Ekkor a 2. feladat alapján: $\mu_i = \pi_i = \frac{d_i}{D}$. A gráf $2$-reguláris, vagyis $\forall d_i = 2$, ezért 
-$$D = \sum\limits_{n=1}^8 d_i = 8\cdot 2 = 16. $$ Vagyis $\forall \pi_i = \frac{2}{16} = \frac{1}{8}$. A stacionárius eloszlás 
+Ekkor a 2. feladat alapján: $\mu_i = \frac{d_i}{D}$. A gráf $2$-reguláris, vagyis $\forall d_i = 2$, ezért 
+$$D = \sum\limits_{n=1}^8 d_i = 8\cdot 2 = 16. $$ Vagyis $\forall \mu_i = \frac{2}{16} = \frac{1}{8}$. A stacionárius eloszlás 
 $$\mu = \left(\dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}\right).$$
 
 ### Átlagos visszatérési idő
 
 Tétel volt előadáson, hogy ha a lánc irreducibilis, pozitív rekurrens, akkor 
-$$\pi_i = \frac{1}{m_i} \hspace{1cm} \Rightarrow  \hspace{1cm}  m_1 = \dfrac{1}{\pi_1} = \dfrac{1}{\frac{1}{8}} = 8.$$ Várhatóan 8 lépés alatt fog visszatérni a kiindulási helyre, ha a bal felső sarokból indul.
+$$\mu_i = \pi_i = \frac{1}{m_i} \hspace{1cm} \Rightarrow  \hspace{1cm}  m_1 = \dfrac{1}{\mu_1} = \dfrac{1}{\frac{1}{8}} = 8.$$ Várhatóan 8 lépés alatt fog visszatérni a kiindulási helyre, ha a bal felső sarokból indul.
 
 ### Határeloszlás
 
@@ -19,7 +19,7 @@ Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért **szerintem** nem l
 
 Precízebben: ???
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTQxNDYyOCwtMTMwNDYwMjQ3NiwyNz
-UwODc0NjMsLTcxOTgxMTcwOSw5MTExODUwNzUsLTE4MjUyMjQw
-NzIsMzYwMjA5NDQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIzMTU2MTA4MywtNzQ5NDE0NjI4LC0xMz
+A0NjAyNDc2LDI3NTA4NzQ2MywtNzE5ODExNzA5LDkxMTE4NTA3
+NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNzMwOTk4MTE2XX0=
 -->
