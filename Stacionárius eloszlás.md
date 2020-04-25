@@ -12,35 +12,21 @@ Egy $3\times 3$-as "sakktáblán" egy huszár bolyong (lóugrásban tud lépni, 
 
 ### Gráf
 
-```latex {cmd=true hide=true}
-\documentclass{article}
+
+``` latex {cmd=true hide=true}
+\documentclass{standalone}
 \usepackage{tikz}
-\usetikzlibrary{arrows.meta}
+\usetikzlibrary{matrix}
 \begin{document}
 \begin{tikzpicture}
-\begin{scope}[every node/.style={circle,thick,draw}]
-    \node (A) at (0,0) {A};
-    \node (B) at (0,3) {B};
-    \node (C) at (2.5,4) {C};
-    \node (D) at (2.5,1) {D};
-    \node (E) at (2.5,-3) {E};
-    \node (F) at (5,3) {F} ;
-\end{scope}
-
-\begin{scope}[>={Stealth[black]},
-              every node/.style={fill=white,circle},
-              every edge/.style={draw=red,very thick}]
-    \path [->] (A) edge node {$5$} (B);
-    \path [->] (B) edge node {$3$} (C);
-    \path [->] (A) edge node {$4$} (D);
-    \path [->] (D) edge node {$3$} (C);
-    \path [->] (A) edge node {$3$} (E);
-    \path [->] (D) edge node {$3$} (E);
-    \path [->] (D) edge node {$3$} (F);
-    \path [->] (C) edge node {$5$} (F);
-    \path [->] (E) edge node {$8$} (F); 
-    \path [->] (B) edge[bend right=60] node {$1$} (E); 
-\end{scope}
+  \matrix (m) [matrix of math nodes,row sep=3em,column sep=4em,minimum width=2em]
+  {
+     F & B \\
+      & A \\};
+  \path[-stealth]
+    (m-1-1) edge node [above] {$\beta$} (m-1-2)
+    (m-1-2) edge node [right] {$\rho$} (m-2-2)
+    (m-1-1) edge node [left] {$\alpha$} (m-2-2);
 \end{tikzpicture}
 \end{document}
 ```
@@ -70,10 +56,10 @@ Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát
 
 Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Ezért ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Nzk2MjY4MCwxNTI1Nzg4MzA2LDcyMD
-g1NDgxMiw1Mzk5ODMxMzgsNDkyNDYwNTkxLDY2Njg4NDEyNSwy
-MDA4MjYwMDgxLDcxNjUwODMzMywtMjMxNTYxMDgzLC03NDk0MT
-Q2MjgsLTEzMDQ2MDI0NzYsMjc1MDg3NDYzLC03MTk4MTE3MDks
-OTExMTg1MDc1LC0xODI1MjI0MDcyLDM2MDIwOTQ0Nyw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbODc0OTQ1ODMsMTUyNTc4ODMwNiw3MjA4NT
+Q4MTIsNTM5OTgzMTM4LDQ5MjQ2MDU5MSw2NjY4ODQxMjUsMjAw
+ODI2MDA4MSw3MTY1MDgzMzMsLTIzMTU2MTA4MywtNzQ5NDE0Nj
+I4LC0xMzA0NjAyNDc2LDI3NTA4NzQ2MywtNzE5ODExNzA5LDkx
+MTE4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNzMwOTk4MT
+E2XX0=
 -->
