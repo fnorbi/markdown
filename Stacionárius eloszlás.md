@@ -1,6 +1,9 @@
 # 1. feladat
 
-Egy $3\times 3$-as "sakktáblán" egy huszár bolyong (lóugrásb
+Egy $3\times 3$-as "sakktáblán" egy huszár bolyong (lóugrásban tud lépni, és véletlenszerűen választ a lehetséges lépései közül). Jelölje $X_n$ a huszár helyzetét $n$ lépés után.
+1. Van-e a láncnak stacionárius eloszlása, és ha igen, hány? Keressük meg! 
+2. Várhatóan hány lépés alatt tér vissza a kiindulási helyére, ha a bal felső sarokból indul?
+3. Létezik-e határeloszlás, és ha igen, függ-e a kezdeti eloszlástól?
 
 ### Stacionárius eloszlás
 
@@ -27,9 +30,9 @@ Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát
 
 Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Ezért ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjczNDEwMCw0OTI0NjA1OTEsNjY2OD
-g0MTI1LDIwMDgyNjAwODEsNzE2NTA4MzMzLC0yMzE1NjEwODMs
-LTc0OTQxNDYyOCwtMTMwNDYwMjQ3NiwyNzUwODc0NjMsLTcxOT
-gxMTcwOSw5MTExODUwNzUsLTE4MjUyMjQwNzIsMzYwMjA5NDQ3
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNTM5OTgzMTM4LDQ5MjQ2MDU5MSw2NjY4OD
+QxMjUsMjAwODI2MDA4MSw3MTY1MDgzMzMsLTIzMTU2MTA4Mywt
+NzQ5NDE0NjI4LC0xMzA0NjAyNDc2LDI3NTA4NzQ2MywtNzE5OD
+ExNzA5LDkxMTE4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcs
+NzMwOTk4MTE2XX0=
 -->
