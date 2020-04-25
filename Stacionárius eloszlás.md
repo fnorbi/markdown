@@ -17,10 +17,10 @@ Kérdés: $\lim\limits_{n\to \infty} p_i^{(n)}$ létezik-e, és függ-e a kezdet
 
 Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért szerintem nem létezik határeloszlás.
 
-Precízebben: Tekintsük a $p_i^n$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát. Bármely $i$ esetén $\forall i\i $
+Precízebben: Tekintsük a $p_i^n$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát. Bármely $i$ esetén $\forall  $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0OTQ5MjgsLTIzMTU2MTA4MywtNzQ5ND
-E0NjI4LC0xMzA0NjAyNDc2LDI3NTA4NzQ2MywtNzE5ODExNzA5
-LDkxMTE4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE5NTYzNDQ1OTIsLTIzMTU2MTA4MywtNz
+Q5NDE0NjI4LC0xMzA0NjAyNDc2LDI3NTA4NzQ2MywtNzE5ODEx
+NzA5LDkxMTE4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNz
+MwOTk4MTE2XX0=
 -->
