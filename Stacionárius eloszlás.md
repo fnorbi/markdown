@@ -17,9 +17,9 @@ Kérdés: $\lim\limits_{n\to \infty} p_i^{(n)}$ létezik-e, és függ-e a kezdet
 
 Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért **szerintem** nem létezik határeloszlás.
 
-Precízebben: hosszú leírni...
+Precízebben: ???
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NjE5OTQxLDI3NTA4NzQ2MywtNzE5OD
-ExNzA5LDkxMTE4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMDQ2MDI0NzYsMjc1MDg3NDYzLC03MT
+k4MTE3MDksOTExMTg1MDc1LC0xODI1MjI0MDcyLDM2MDIwOTQ0
+Nyw3MzA5OTgxMTZdfQ==
 -->
