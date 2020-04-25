@@ -24,9 +24,9 @@ Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért nem létezik határ
 Precízebben:
 Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát. Bármely $i$ esetén minden $n$-re $p_i^{(2n)}=0$ vagy $p_i^{(2n+1)}=0$ teljesül.^[1.] Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Azt kaptuk, hogy ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 
-[^1]: fa
+[^1]: fav vaeaeélgj
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTE3NTA3MiwyMDA4MjYwMDgxLDcxNj
+eyJoaXN0b3J5IjpbMTMzNTU2NDM3OCwyMDA4MjYwMDgxLDcxNj
 UwODMzMywtMjMxNTYxMDgzLC03NDk0MTQ2MjgsLTEzMDQ2MDI0
 NzYsMjc1MDg3NDYzLC03MTk4MTE3MDksOTExMTg1MDc1LC0xOD
 I1MjI0MDcyLDM2MDIwOTQ0Nyw3MzA5OTgxMTZdfQ==
