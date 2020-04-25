@@ -7,13 +7,14 @@ $$\pi = \left(\dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{
 
 ### Átlagos visszatérési idő
 
-Tétel volt előadáson, hogy ha $i$ reg
-$$ \lim\limits_{n\to \infty} p_{ii}^n = \dfrac{d}{m_i} $$
+Tétel volt előadáson, hogy ha $i$ rekurrens állapot (most mindegyik az) $d$ periódussal, akkor
+$$ \lim\limits_{n\to \infty} p_{ii}^{(nd)} = \dfrac{d}{m_i} $$
+
 
 ### Határeloszlás
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5ODA5NTQ2LDM2MDIwOTQ0Nyw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MjUyMjQwNzIsMzYwMjA5NDQ3LDczMD
+k5ODExNl19
 -->
