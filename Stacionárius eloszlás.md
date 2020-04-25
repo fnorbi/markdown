@@ -7,6 +7,8 @@ $$\pi = \left(\dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{
 
 ### Átlagos visszatérési idő
 
+Kérdés: 
+
 Tétel volt előadáson, hogy ha $i$ rekurrens állapot (most mindegyik az) $d$ periódussal, akkor
 $$ \lim\limits_{n\to \infty} p_{ii}^{(nd)} = \dfrac{d}{m_i} $$
 
@@ -15,6 +17,6 @@ $$ \lim\limits_{n\to \infty} p_{ii}^{(nd)} = \dfrac{d}{m_i} $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUyMjQwNzIsMzYwMjA5NDQ3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE2MTc5OTk0MDQsLTE4MjUyMjQwNzIsMz
+YwMjA5NDQ3LDczMDk5ODExNl19
 -->
