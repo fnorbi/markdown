@@ -1,6 +1,6 @@
 ### Stacionárius eloszlás
 
-
+Használva a 2. feladat állítását: $\pi_i = 
 
 ### Átlagos visszatérési idő
 
@@ -10,5 +10,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMjA5NDQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE3ODkzOTU4MjQsMzYwMjA5NDQ3LDczMD
+k5ODExNl19
 -->
