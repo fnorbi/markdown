@@ -15,11 +15,12 @@ $$\mu_i = \pi_i = \frac{1}{m_i} \hspace{1cm} \Rightarrow  \hspace{1cm}  m_1 = \d
 
 Kérdés: $\lim\limits_{n\to \infty} p_i^{(n)}$ létezik-e, és függ-e a kezdeti eloszlástól?
 
-Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért **szerintem** nem létezik határeloszlás.
+Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért szerintem nem létezik határeloszlás.
 
-Precízebben: ???
+Precízebben: Tekintsük a $p_i^n$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát. Bármely $i$ esetén $\forall i\i $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTU2MTA4MywtNzQ5NDE0NjI4LC0xMz
-A0NjAyNDc2LDI3NTA4NzQ2MywtNzE5ODExNzA5LDkxMTE4NTA3
-NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTk0OTQ5MjgsLTIzMTU2MTA4MywtNzQ5ND
+E0NjI4LC0xMzA0NjAyNDc2LDI3NTA4NzQ2MywtNzE5ODExNzA5
+LDkxMTE4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNzMwOT
+k4MTE2XX0=
 -->
