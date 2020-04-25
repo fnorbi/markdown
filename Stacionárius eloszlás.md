@@ -1,6 +1,6 @@
 # 1. feladat
 
-
+Egy $3\times 3$-as sakktáblán
 
 ### Stacionárius eloszlás
 
@@ -27,9 +27,9 @@ Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát
 
 Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Ezért ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjMxMDg0MSw2NjY4ODQxMjUsMjAwOD
-I2MDA4MSw3MTY1MDgzMzMsLTIzMTU2MTA4MywtNzQ5NDE0NjI4
-LC0xMzA0NjAyNDc2LDI3NTA4NzQ2MywtNzE5ODExNzA5LDkxMT
-E4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbNDkyNDYwNTkxLDY2Njg4NDEyNSwyMDA4Mj
+YwMDgxLDcxNjUwODMzMywtMjMxNTYxMDgzLC03NDk0MTQ2Mjgs
+LTEzMDQ2MDI0NzYsMjc1MDg3NDYzLC03MTk4MTE3MDksOTExMT
+g1MDc1LC0xODI1MjI0MDcyLDM2MDIwOTQ0Nyw3MzA5OTgxMTZd
+fQ==
 -->
