@@ -2,9 +2,9 @@
 
 A lánc irrecubilis, pozitív rekurrens, ezért egyértelműen létezik stacionárius eloszlása. A gráf véges, egyszerű, összefüggő, és mivel az átmenetvalószínűségek azonosak, tekinthető irányítatlannak.
 
-Ekkor a 2. feladat alapján: $\pi_i = \frac{d_i}{D}$. A gráf $2$-reguláris, vagyis $\forall d_i = 2$, ezért 
+Ekkor a 2. feladat alapján: $\mu_i = \pi_i = \frac{d_i}{D}$. A gráf $2$-reguláris, vagyis $\forall d_i = 2$, ezért 
 $$D = \sum\limits_{n=1}^8 d_i = 8\cdot 2 = 16. $$ Vagyis $\forall \pi_i = \frac{2}{16} = \frac{1}{8}$. A stacionárius eloszlás 
-$$\pi = \left(\dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}\right).$$
+$$\mu = \left(\dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}\right).$$
 
 ### Átlagos visszatérési idő
 
@@ -19,7 +19,7 @@ Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért **szerintem** nem l
 
 Precízebben: ???
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ2MDI0NzYsMjc1MDg3NDYzLC03MT
-k4MTE3MDksOTExMTg1MDc1LC0xODI1MjI0MDcyLDM2MDIwOTQ0
-Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTc0OTQxNDYyOCwtMTMwNDYwMjQ3NiwyNz
+UwODc0NjMsLTcxOTgxMTcwOSw5MTExODUwNzUsLTE4MjUyMjQw
+NzIsMzYwMjA5NDQ3LDczMDk5ODExNl19
 -->
