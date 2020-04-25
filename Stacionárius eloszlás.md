@@ -2,7 +2,7 @@
 
 <style type="text/css">
 .mermaid svg {  
-border: 0px;  
+border: 0px;
 }
 </style>
 
@@ -17,7 +17,7 @@ Egy $3\times 3$-as "sakktáblán" egy huszár bolyong (lóugrásban tud lépni, 
 
 ### Gráf
 
-<div style="border: 0px">
+<div class="mermaid">
 
 ```mermaid
 graph LR;  
@@ -54,10 +54,10 @@ Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát
 
 Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Ezért ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgwMjU2NjcsLTIxNDM3Njc2NDgsMT
-UyNTc4ODMwNiw3MjA4NTQ4MTIsNTM5OTgzMTM4LDQ5MjQ2MDU5
-MSw2NjY4ODQxMjUsMjAwODI2MDA4MSw3MTY1MDgzMzMsLTIzMT
-U2MTA4MywtNzQ5NDE0NjI4LC0xMzA0NjAyNDc2LDI3NTA4NzQ2
-MywtNzE5ODExNzA5LDkxMTE4NTA3NSwtMTgyNTIyNDA3MiwzNj
-AyMDk0NDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzNzU3NTY2MSwtMjE0Mzc2NzY0OCwxNT
+I1Nzg4MzA2LDcyMDg1NDgxMiw1Mzk5ODMxMzgsNDkyNDYwNTkx
+LDY2Njg4NDEyNSwyMDA4MjYwMDgxLDcxNjUwODMzMywtMjMxNT
+YxMDgzLC03NDk0MTQ2MjgsLTEzMDQ2MDI0NzYsMjc1MDg3NDYz
+LC03MTk4MTE3MDksOTExMTg1MDc1LC0xODI1MjI0MDcyLDM2MD
+IwOTQ0Nyw3MzA5OTgxMTZdfQ==
 -->
