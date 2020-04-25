@@ -14,10 +14,11 @@ $$\pi_i = \frac{1}{m_i} \hspace{1cm} \Rightarrow  \hspace{1cm}  m_1 = \dfrac{1}{
 
 ### Határeloszlás
 
-Kérdés:
-$$ \lim_{n\to \infty} p_i^{(n)} $$
+Kérdés: $\lim\limits_{n\to \infty} p_i^{(n)}$ létezik-e, és függ-e a kezdeti eloszlástól?
+Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért nem létezik határeloszlás.
+Precízebben: hosszú leírni...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MDg3NDYzLC03MTk4MTE3MDksOTExMT
-g1MDc1LC0xODI1MjI0MDcyLDM2MDIwOTQ0Nyw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTM1MjQxODE5NCwyNzUwODc0NjMsLTcxOT
+gxMTcwOSw5MTExODUwNzUsLTE4MjUyMjQwNzIsMzYwMjA5NDQ3
+LDczMDk5ODExNl19
 -->
