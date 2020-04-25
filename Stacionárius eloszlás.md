@@ -22,10 +22,10 @@ Kérdés: $\lim\limits_{n\to \infty} p_i^{(n)}$ létezik-e, és függ-e a kezdet
 Mivel a lánc pozitív rekurrens, de nem aperiodikus, ezért nem létezik határeloszlás.
 
 Precízebben:
-Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát. Bármely $i$ esetén minden $n$-re $p_i^{(2n)}=0$ vagy $p_i^{(2n+1)}=0$ teljesül. Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall n$-re. Vagyis azt kaptuk, hogy ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
+Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát. Bármely $i$ esetén minden $n$-re $p_i^{(2n)}=0$ vagy $p_i^{(2n+1)}=0$ teljesül. Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Azt kaptuk, hogy ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA1MDQ2MDMsNzE2NTA4MzMzLC0yMz
-E1NjEwODMsLTc0OTQxNDYyOCwtMTMwNDYwMjQ3NiwyNzUwODc0
-NjMsLTcxOTgxMTcwOSw5MTExODUwNzUsLTE4MjUyMjQwNzIsMz
-YwMjA5NDQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjAwODI2MDA4MSw3MTY1MDgzMzMsLTIzMT
+U2MTA4MywtNzQ5NDE0NjI4LC0xMzA0NjAyNDc2LDI3NTA4NzQ2
+MywtNzE5ODExNzA5LDkxMTE4NTA3NSwtMTgyNTIyNDA3MiwzNj
+AyMDk0NDcsNzMwOTk4MTE2XX0=
 -->
