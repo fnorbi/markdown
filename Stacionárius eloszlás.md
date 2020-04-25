@@ -14,7 +14,9 @@ Egy $3\times 3$-as "sakktáblán" egy huszár bolyong (lóugrásban tud lépni, 
 
 ```latex
 \begin{itemize}
-	
+	\item{
+fa
+	}
 \end{itemize}
 ```
 
@@ -43,10 +45,10 @@ Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát
 
 Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Ezért ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDYyMTIxNSwxNTI1Nzg4MzA2LDcyMD
-g1NDgxMiw1Mzk5ODMxMzgsNDkyNDYwNTkxLDY2Njg4NDEyNSwy
-MDA4MjYwMDgxLDcxNjUwODMzMywtMjMxNTYxMDgzLC03NDk0MT
-Q2MjgsLTEzMDQ2MDI0NzYsMjc1MDg3NDYzLC03MTk4MTE3MDks
-OTExMTg1MDc1LC0xODI1MjI0MDcyLDM2MDIwOTQ0Nyw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbMTYyNDIxNDQxLDE1MjU3ODgzMDYsNzIwOD
+U0ODEyLDUzOTk4MzEzOCw0OTI0NjA1OTEsNjY2ODg0MTI1LDIw
+MDgyNjAwODEsNzE2NTA4MzMzLC0yMzE1NjEwODMsLTc0OTQxND
+YyOCwtMTMwNDYwMjQ3NiwyNzUwODc0NjMsLTcxOTgxMTcwOSw5
+MTExODUwNzUsLTE4MjUyMjQwNzIsMzYwMjA5NDQ3LDczMDk5OD
+ExNl19
 -->
