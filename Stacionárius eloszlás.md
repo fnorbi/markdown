@@ -15,8 +15,9 @@ Várhatóan 8 lépés alatt fog visszatérni a kiindulási helyre, ha a bal fels
 
 ### Határeloszlás
 
-
+Kérdés:
+$$ \lim_{n\to \infty} p_i^{(n)} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NDY1NjA2LDkxMTE4NTA3NSwtMTgyNT
-IyNDA3MiwzNjAyMDk0NDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTcxOTgxMTcwOSw5MTExODUwNzUsLTE4Mj
+UyMjQwNzIsMzYwMjA5NDQ3LDczMDk5ODExNl19
 -->
