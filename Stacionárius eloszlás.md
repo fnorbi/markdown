@@ -9,12 +9,14 @@ $$\pi = \left(\dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{
 
 ### Átlagos visszatérési idő
 
-Tétel volt előadáson, hogy ekkor 
+Tétel volt előadáson, hogy ha a lánc irreducibilis, pozitív rekurrens, akkor 
+$$\pi_i = \frac{1}{m_i}$$
+Vagyis $m_1 = \frac{1}{\pi_1} = $
 
 ### Határeloszlás
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY1OTA1Niw5MTExODUwNzUsLTE4Mj
+eyJoaXN0b3J5IjpbMTY3Mzg5MTg3MCw5MTExODUwNzUsLTE4Mj
 UyMjQwNzIsMzYwMjA5NDQ3LDczMDk5ODExNl19
 -->
