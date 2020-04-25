@@ -10,14 +10,14 @@ $$\pi = \left(\dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{8}, \dfrac{1}{
 ### Átlagos visszatérési idő
 
 Tétel volt előadáson, hogy ha a lánc irreducibilis, pozitív rekurrens, akkor 
-$$\pi_i = \frac{1}{m_i} \hspace{1cm} \Rightarrow  \hspace{1cm}  m_1 = \dfrac{1}{\pi_1} = \dfrac{1}{\frac{1}{8}} = 8$$Várhatóan 8 lépés alatt fog visszatérni a kiindulási helyre, ha a bal felső sarokból indul.
+$$\pi_i = \frac{1}{m_i} \hspace{1cm} \Rightarrow  \hspace{1cm}  m_1 = \dfrac{1}{\pi_1} = \dfrac{1}{\frac{1}{8}} = 8$$ Várhatóan 8 lépés alatt fog visszatérni a kiindulási helyre, ha a bal felső sarokból indul.
 
 ### Határeloszlás
 
 Kérdés:
 $$ \lim_{n\to \infty} p_i^{(n)} $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTYwOTU3OSwtNzE5ODExNzA5LDkxMT
-E4NTA3NSwtMTgyNTIyNDA3MiwzNjAyMDk0NDcsNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMjc1MDg3NDYzLC03MTk4MTE3MDksOTExMT
+g1MDc1LC0xODI1MjI0MDcyLDM2MDIwOTQ0Nyw3MzA5OTgxMTZd
+fQ==
 -->
