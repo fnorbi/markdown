@@ -14,9 +14,13 @@ Egy $3\times 3$-as "sakktáblán" egy huszár bolyong (lóugrásban tud lépni, 
   <li>Létezik-e határeloszlás, és ha igen, függ-e a kezdeti eloszlástól?</li>
 </ol>
 
+<div style="border:1px solid red;">
+
+</div>
+
+
 ### Gráf
 
-<div style="border:1px solid red;">
 
 ```mermaid
 graph LR;  
@@ -25,7 +29,6 @@ A-->C;
 B-->D;  
 C-->D;
 ```
-</div>
 
 ### Stacionárius eloszlás
 
@@ -52,10 +55,10 @@ Tekintsük a $p_i^{(n)}$ sorozat $p_i^{(2n)}$ és $p_i^{(2n+1)}$ részsorozatát
 
 Vagyis a $p_i^{(n)}$ sorozatnak van olyan részsorozata, ami konstans $0$, annak persze határértéke is $0$. Ha tehát $\exists \lim\limits_{n\to \infty} p_i^{(n)} = q_i$, akkor $q_i = 0$ teljesül $\forall i$-re. Ezért ha létezik határeloszlás, akkor az csakis a $q=(0,0,0,0,0,0,0,0)$ lehet. Ez viszont nem eloszlás, tehát azt kaptuk, hogy nem létezik határeloszlás.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyOTUwMTE2LC0xMzc1NzU2NjEsLTIxND
-M3Njc2NDgsMTUyNTc4ODMwNiw3MjA4NTQ4MTIsNTM5OTgzMTM4
-LDQ5MjQ2MDU5MSw2NjY4ODQxMjUsMjAwODI2MDA4MSw3MTY1MD
-gzMzMsLTIzMTU2MTA4MywtNzQ5NDE0NjI4LC0xMzA0NjAyNDc2
-LDI3NTA4NzQ2MywtNzE5ODExNzA5LDkxMTE4NTA3NSwtMTgyNT
-IyNDA3MiwzNjAyMDk0NDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxNDcwMzAyNDQsLTEzNzU3NTY2MSwtMj
+E0Mzc2NzY0OCwxNTI1Nzg4MzA2LDcyMDg1NDgxMiw1Mzk5ODMx
+MzgsNDkyNDYwNTkxLDY2Njg4NDEyNSwyMDA4MjYwMDgxLDcxNj
+UwODMzMywtMjMxNTYxMDgzLC03NDk0MTQ2MjgsLTEzMDQ2MDI0
+NzYsMjc1MDg3NDYzLC03MTk4MTE3MDksOTExMTg1MDc1LC0xOD
+I1MjI0MDcyLDM2MDIwOTQ0Nyw3MzA5OTgxMTZdfQ==
 -->
