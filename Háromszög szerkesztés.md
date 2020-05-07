@@ -6,8 +6,7 @@ $$ T = \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \
 ## I. eset: $m_b$ és $r$ adottak
 $$
 \begin{cases} \dfrac{b m_b}{2} = rs \\ rs= \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4} }  \end{cases}
-$$
-A második egyenletet négyzetre emelve:
+$$A második egyenletet négyzetre emelve:
 $$ r^2 \cdot \left(b+\dfrac{a}{2}\right)^2 = \left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$ egyszerűsítve
 $$ r^2 \cdot \left(b+\dfrac{a}{2}\right) = \left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$ Az első egyenletből pedig
 $$ bm_b = r\cdot (2b+a) $$ adódik, ahonnan kifejezve $a$-t:
@@ -17,9 +16,9 @@ $$ r^2\cdot \left(1+\dfrac{m_b-2r}{2r}\right) = \left(1-\dfrac{m_b-2r}{2r}\right
 
 ## I. eset: $R$ és $r$ adottak
 $$
-\begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4} }  \end{cases}
-$$
+\begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}
+$$ Megint a második egyenlettel kezdve
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczODQwMTI0LC0yNDAyMzgyNzQsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTA4MzUxODg3MCwtMjQwMjM4Mjc0LDczMD
+k5ODExNl19
 -->
