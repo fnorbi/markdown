@@ -8,9 +8,9 @@ $$
 \begin{cases} \dfrac{b m_b}{2} = rs \\ rs= \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4} }  \end{cases}
 $$
 A második egyenletet négyzetre emelve:
-$$ r^2 \cdot \left(b+\dfrac{a}{2}\right)^2 = \left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$
-egyszerűsítve
+$$ r^2 \cdot \left(b+\dfrac{a}{2}\right)^2 = \left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$ egyszerűsítve
 $$ r^2 \cdot \left(b+\dfrac{a}{2}\right) = \left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE3NzE2OTEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExMjM4NzI2NTUsNzMwOTk4MTE2XX0=
 -->
