@@ -15,8 +15,11 @@ $$ a = \dfrac{bm_b-2rb}{r} $$ Világos tehát, hogy ha $b$ megszerkeszthető, ak
 $$ r^2\cdot \left(b+\dfrac{bm_b-2rb}{2r}\right) = \left(b-\dfrac{bm_b-2rb}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2 $$ Egyszerűsítve $b$-vel:
 $$ r^2\cdot \left(1+\dfrac{m_b-2r}{2r}\right) = \left(1-\dfrac{m_b-2r}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2  $$ egyenlet adódik, ami $b$-re másodfokú, tehát $b$ foka 1 vagy 2 lehet csak (mivel van olyan másodfokú polinom, amelynek gyöke). Ebből következően $b$ megszerkeszthető, tehát $a$ is, így a háromszög is.
 
-## I. eset: $m_b$ és $r$ adottak
+## I. eset: $R$ és $r$ adottak
+$$
+\begin{cases} \dfrac{ab^2}{4R} = rs \\ rs= \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4} }  \end{cases}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzg1OTY3OCwtMjQwMjM4Mjc0LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbODk3NDY5MjQwLC0yNDAyMzgyNzQsNzMwOT
+k4MTE2XX0=
 -->
