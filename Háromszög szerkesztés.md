@@ -7,6 +7,8 @@ $$ T = \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \
 $$
 \begin{cases} \dfrac{b m_b}{2} = rs \\ rs= \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4} }  \end{cases}
 $$
+A második egyenletből:
+$$  $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzI3MDA4MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTczODEyMTMxNyw3MzA5OTgxMTZdfQ==
 -->
