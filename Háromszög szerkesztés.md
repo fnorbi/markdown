@@ -13,8 +13,8 @@ $$ r^2 \cdot \left(b+\dfrac{a}{2}\right) = \left(b-\dfrac{a}{2}\right)\cdot \dfr
 $$ bm_b = r\cdot (2b+a) $$ adódik, ahonnan kifejezve $a$-t:
 $$ a = \dfrac{bm_b-2rb}{r} $$ Világos tehát, hogy ha $b$ megszerkeszthető, akkor $a$ is (szerkeszthetőség és algebrai műveletek). Helyettesítve a másik egyenletbe
 $$ r^2\cdot \left(b+\dfrac{bm_b-2rb}{2r}\right) = \left(b-\dfrac{bm_b-2rb}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2 $$ Egyszerűsítve $b$-vel:
-$$ r^2\cdot \left(1+\dfrac{m_b-2r}{2r}\right) = \left(1-\dfrac{m_b-2rb}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2  $$
+$$ r^2\cdot \left(1+\dfrac{m_b-2r}{2r}\right) = \left(1-\dfrac{m_b-2r}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2  $$ egyenlet adódik, ami $b$-re másodfokú, tehát $b$ foka 1 vagy 2 lehet csak (mivel van olyan másodfokú polinom, amelynek gyöke). Ebből következően $b$ megszerkeszthető, tehát $a$ is, így a háromszög is.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MTI5OTkzLC0yNDAyMzgyNzQsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTYyMjM3MjY3NCwtMjQwMjM4Mjc0LDczMD
+k5ODExNl19
 -->
