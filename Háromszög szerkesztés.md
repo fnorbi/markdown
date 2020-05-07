@@ -12,8 +12,9 @@ $$ r^2 \cdot \left(b+\dfrac{a}{2}\right)^2 = \left(b+\dfrac{a}{2}\right) \cdot\l
 $$ r^2 \cdot \left(b+\dfrac{a}{2}\right) = \left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$ Az első egyenletből pedig
 $$ bm_b = r\cdot (2b+a) $$ adódik, ahonnan kifejezve $a$-t:
 $$ a = \dfrac{bm_b-2rb}{r} $$ Világos tehát, hogy ha $b$ megszerkeszthető, akkor $a$ is (szerkeszthetőség és algebrai műveletek). Helyettesítve a másik egyenletbe
-$$ r^2\cdot \left(b+\dfrac{bm_b-2rb}{2r}\right) = \left(b-\dfrac{bm_b-2rb}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2 $$
+$$ r^2\cdot \left(b+\dfrac{bm_b-2rb}{2r}\right) = \left(b-\dfrac{bm_b-2rb}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2 $$ Egyszerűsítve $b$-vel:
+$$ r^2\cdot \left(1+\dfrac{m_b-2r}{2r}\right) = \left(1-\dfrac{m_b-2rb}{2r}\right)\cdot \left(\dfrac{bm_b-2rb}{2r}\right)^2  $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MTk0MDY4LC0yNDAyMzgyNzQsNzMwOT
+eyJoaXN0b3J5IjpbNDI4MTI5OTkzLC0yNDAyMzgyNzQsNzMwOT
 k4MTE2XX0=
 -->
