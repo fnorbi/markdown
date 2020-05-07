@@ -19,8 +19,12 @@ $$
 \begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}
 $$ Megint a második egyenlettel kezdve: egyszerűsítve $\dfrac{a}{2}$-vel és négyzetre emelve:
 $$ \dfrac{b^4}{4R^2} = b^2-\dfrac{a^2}{4} $$ szorozva $4R^2$-tel:
-$$b^4 = 4R^2b^2-R^2a^2 $$ Az első egyenletben szintél
+$$b^4 = 4R^2b^2-R^2a^2 $$ Az első egyenletben szintén elvégezve beszorzást:
+$$ ab^2 = 4Rr\cdot \left( b+\dfrac{a}{2} \right) = 4Rrb+2Rra $$ Vagyis az egyenletrendszer
+$$
+\begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNTExMjA2LC0yNDAyMzgyNzQsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4OTAwMzQxMSwtMjQwMjM4Mjc0LDczMD
+k5ODExNl19
 -->
