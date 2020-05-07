@@ -17,9 +17,9 @@ $$ r^2\cdot \left(1+\dfrac{m_b-2r}{2r}\right) = \left(1-\dfrac{m_b-2r}{2r}\right
 
 ## I. eset: $R$ és $r$ adottak
 $$
-\begin{cases} \dfrac{ab^2}{4R} = rs \\ rs= \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4} }  \end{cases}
+\begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4} }  \end{cases}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3NDY5MjQwLC0yNDAyMzgyNzQsNzMwOT
+eyJoaXN0b3J5IjpbNTczODQwMTI0LC0yNDAyMzgyNzQsNzMwOT
 k4MTE2XX0=
 -->
