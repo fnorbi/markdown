@@ -9,8 +9,9 @@ $$
 $$
 A második egyenletet négyzetre emelve:
 $$ r^2 \cdot \left(b+\dfrac{a}{2}\right)^2 = \left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$ egyszerűsítve
-$$ r^2 \cdot \left(b+\dfrac{a}{2}\right) = \left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$
-
+$$ r^2 \cdot \left(b+\dfrac{a}{2}\right) = \left(b-\dfrac{a}{2}\right)\cdot \dfrac{a^2}{4}  $$ Az első egyenletből pedig
+$$ bm_b = r\cdot (2b+a) $$ adódik, ahonnan kifejezve $a$-t:
+$$ a = \dfrac{b $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM4NzI2NTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2MzYxMzcyOTcsNzMwOTk4MTE2XX0=
 -->
