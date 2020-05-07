@@ -5,8 +5,8 @@ $$ T = \sqrt{\left(b+\dfrac{a}{2}\right) \cdot\left(b-\dfrac{a}{2}\right)\cdot \
 
 ## I. eset: $m_b$ és $r$ adottak
 $$
-\cases{}
+\begin{cases} 3x + 5y + z \\ 7x – 2y + 4z \\ -6x + 3y + 2z \end{cases}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzczOTA3MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMzk4MTAzMTMsNzMwOTk4MTE2XX0=
 -->
