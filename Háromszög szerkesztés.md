@@ -22,9 +22,10 @@ $$ \dfrac{b^4}{4R^2} = b^2-\dfrac{a^2}{4} $$ szorozva $4R^2$-tel:
 $$b^4 = 4R^2b^2-R^2a^2 $$ Az első egyenletben szintén elvégezve beszorzást:
 $$ ab^2 = 4Rr\cdot \left( b+\dfrac{a}{2} \right) = 4Rrb+2Rra $$ Vagyis az egyenletrendszer
 $$
-\begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}
-$$
+\begin{cases} ab^2 = 4Rrb+2Rra \\ b^4 = 4R^2b^2-R^2a^2  \end{cases}
+$$ Az első egyenletből kifejezve $a$-t:
+$$ a = \dfrac{4Rrb $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAwMzQxMSwtMjQwMjM4Mjc0LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNjQzOTc1NzQwLC0xODkwMDM0MTEsLTI0MD
+IzODI3NCw3MzA5OTgxMTZdfQ==
 -->
