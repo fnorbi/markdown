@@ -19,7 +19,7 @@ $$
 \begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}
 $$ Megint a második egyenlettel kezdve: egyszerűsítve $\dfrac{a}{2}$-vel és négyzetre emelve:
 $$ \dfrac{b^4}{4R^2} = b^2-\dfrac{a^2}{4} $$ szorozva $4R^2$-tel:
-$$b^4 = 4R^2b^2-R^2a^2 $$ Az első egyenletben szintén elvégezve beszorzást:
+$$b^4 = 4R^2b^2-R^2a^2 $$ Az első egyenletben szintén elvégezve a beszorzást:
 $$ ab^2 = 4Rr\cdot \left( b+\dfrac{a}{2} \right) = 4Rrb+2Rra $$ Vagyis az egyenletrendszer
 $$
 \begin{cases} ab^2 = 4Rrb+2Rra \\ b^4 = 4R^2b^2-R^2a^2  \end{cases}
@@ -45,6 +45,7 @@ $$ c^3 - 4c^2 + 4 = 0 $$ Könnyen látható, hogy a kapott, $c$-ben harmadfokú 
 ##  Egyéb eset:
 Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a szerkesztéshez, akkor az is jó, ha mindhárom adat rendelkezésünkre áll. A maradék három eset sem izgalmas: egyetlen adat a három közül nem határozza meg egyértelműen a háromszöget, így tehát az nem szerkeszthető meg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcwNzA1NzksLTc5ODI1MDcwMiwtMT
-g5MDAzNDExLC0yNDAyMzgyNzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTcxMjYwMTc0LC0xMjA3MDcwNTc5LC03OT
+gyNTA3MDIsLTE4OTAwMzQxMSwtMjQwMjM4Mjc0LDczMDk5ODEx
+Nl19
 -->
