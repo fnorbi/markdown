@@ -34,11 +34,14 @@ $$b^4 - 4Rrb^2+4R^2r^2=4R^2b^4-16R^3rb^2 $$ A kapott egyenlet $b$-ben negyedfok�
 ## III. eset: $R$ és $m_b$ adottak
 $$\begin{cases} \dfrac{ab^2}{4R} = \dfrac{bm_b}{2} \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}$$ A második egyenlet az előzőhöz hasonlóan
 $$ b^4=4R^2b^2-R^2a^2 $$ alakban írható. Az első szintén picit rendezve: $ab^2 = 2Rbm_b$. Most csak speciális esettel foglalkozunk, azt fogjuk megmutatni, hogy $R=1$ és $m_b = 1$ esetén nem szerkeszthető meg a háromszög (meggondolndó, hogy ilyen háromszög valóban létezik, bár ez a bizonyítás során is könnyen látható lesz az egyik lépésben). Az egyenletrendszer $R=m_b=1$ esetén:
-$$\begin{cases} ab^2 = 2b \\ b^4 = 2b^2  \end{cases}$$
+$$\begin{cases} ab^2 = 2b \\ b^4 = 2b^2-a^2  \end{cases}$$ Ekkor az első egyenletből kifejezve $a$-t:
+$$ a= \dfrac{2}{b} $$ helyettesítve a másodikba
+$$ b^4 = 2b^2 - \dfrac{4}{b^2} $$ azaz
+$$ b^6-2b^4+4=0 $$
 
 ##  Egyéb eset:
 Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a szerkesztéshez, akkor az is jó, ha mindhárom adat rendelkezésünkre áll. A maradék három eset sem izgalmas: egyetlen adat a három közül nem határozza meg egyértelműen a háromszöget, így tehát az nem szerkeszthető meg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNzI0NTE2LC03OTgyNTA3MDIsLTE4OT
+eyJoaXN0b3J5IjpbMzM3NzUwODE3LC03OTgyNTA3MDIsLTE4OT
 AwMzQxMSwtMjQwMjM4Mjc0LDczMDk5ODExNl19
 -->
