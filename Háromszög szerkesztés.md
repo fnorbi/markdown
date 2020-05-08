@@ -24,13 +24,14 @@ $$ ab^2 = 4Rr\cdot \left( b+\dfrac{a}{2} \right) = 4Rrb+2Rra $$ Vagyis az egyenl
 $$
 \begin{cases} ab^2 = 4Rrb+2Rra \\ b^4 = 4R^2b^2-R^2a^2  \end{cases}
 $$ Az első egyenletből kifejezve $a$-t:
-$$ a = \dfrac{4Rrb}{b^2-2Rr} $$ Helyettesítve a másodikba
+$$ a = \dfrac{4Rrb}{b^2-2Rr} $$ Megint csak jegyezzük meg, hogy ha azt kapnánk, hogy $b$ megszerkeszthető, akkor $a$ is az volna. Helyettesítve a másodikba
 $$ b^4 = 4R^2b^2-R^2\cdot \left(\dfrac{4Rrb}{b^2-2Rr}\right)^2 $$ Beszorozva $(b^2-2Rr)^2$-nel:
 $$ b^4 \cdot (b^2-2Rr)^2 = 4R^2b^2\cdot (b^2-2Rr)^2-16R^4r^2b^2 $$ Egyszerűsítve $b^2$-nel:
 $$ b^2 \cdot (b^2-2Rr)^2 = 4R^2\cdot (b^2-2Rr)^2-16R^4r^2 $$ Kibontva a zárójeleket:
 $$ b^2 \cdot (b^4 - 4Rrb^2 + 4R^2r^2) = 4R^2\cdot (b^4-4Rrb^2+4R^2r^2) - 16R^4r^2 $$ Vegyük észre, hogy jobboldalon beszorzás után a konstans kiesik, tehát megint egyszerűsíthetünk $b^2$-tel:
 $$b^4 - 4Rrb^2+4R^2r^2=4R^2b^4-16R^3rb^2 $$ A kapott egyenlet $b$-ben negyedfokú, ami még jelenthetné azt, hogy $b$ foka $3$, viszont vegyük észre, hogy sem elsőfokú, sem harmadfokú tag nincs, tehát valójában ez az egyenlet $b^2$-ben másodfokú, tehát $b^2$ foka 1 vagy 2, azaz $b^2$ megszerkeszthető. Innen pedig a tanultak alapján $b$ is, tehát $a$ is, így a háromszög is.
+## III. eset: $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Nzc1MzYxMywtMTg5MDAzNDExLC0yND
+eyJoaXN0b3J5IjpbMTQ4MDc1Mjc0MSwtMTg5MDAzNDExLC0yND
 AyMzgyNzQsNzMwOTk4MTE2XX0=
 -->
