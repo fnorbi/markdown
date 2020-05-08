@@ -37,8 +37,8 @@ $$ b^4=4R^2b^2-R^2a^2 $$ alakban írható. Az első szintén picit rendezve: $ab
 $$\begin{cases} ab^2 = 2b \\ b^4 = 4b^2-a^2  \end{cases}$$ Ekkor az első egyenletből kifejezve $a$-t:
 $$ a= \dfrac{2}{b} $$ helyettesítve a másodikba
 $$ b^4 = 4b^2 - \dfrac{4}{b^2} $$ azaz
-$$ b^6-4b^4+4=0 $$ Ez $b$-ben hatodfokú, de ennyi kevés információ számunkra $b$ fokáról. Legyen $c=b^2$, ekkor
-$$ c^3 - 4c^2 + 4 = 0 $$ Könnyen látható, hogy a kapott, $c$-ben harmadfokú egyenletnek nincs racionális gyöke. Ehhez racionális gyöktesztet kell végeznünk, a lehetséges jelöltek: $1, 2, 4$. Behelyettesítéssel látható, hogy gyik sem gyöke az $x^3-4x^2+4$ polinomnak, tehát mivel nincs racionális gyöke ennek a harmadfokú polinomnak, irreducibilis $\mathbb{Q}$ felett, így $\mathbb{Z}$ felett is. Ez viszont azt jelenti, hogy mivel $c$ gyöke neki, és irreducibilis a polinom, így ez $c$ minimálpolinomja, azaz $c$ foka 3.
+$$ b^6-4b^4+4=0 $$ Ez $b$-ben hatodfokú, de ennyi információ nem mond számunkra elegendőt $b$ fokáról. Legyen $c=b^2$, ekkor
+$$ c^3 - 4c^2 + 4 = 0 $$ Könnyen látható, hogy a kapott, $c$-ben harmadfokú egyenletnek nincs racionális gyöke. Ehhez racionális gyöktesztet kell végeznünk, a lehetséges jelöltek: $\pm1, \pm2, \pm4$. Behelyettesítéssel látható, hogy egyik sem gyöke az $x^3-4x^2+4$ polinomnak, tehát mivel nincs racionális gyöke ennek a harmadfokú polinomnak, irreducibilis $\mathbb{Q}$ felett, így $\mathbb{Z}$ felett is. Ez viszont azt jelenti, hogy mivel $c$ gyöke neki, és irreducibilis a polinom, így ez $c$ minimálpolinomja, azaz $c$ foka 3.
 
 És kész is vagyunk, hiszen ekkor $b$ biztosan nem lehet megszerkeszthető, mert akkor $b^2=c$ is megszerkeszthető volna, de megszerkeszthető foka csakis $2$-hatvány lehet.
 
@@ -51,7 +51,7 @@ Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a sze
 
 A maradék három eset sem izgalmas: egyetlen adat a három közül nem határozza meg egyértelműen a háromszöget, így tehát az nem szerkeszthető meg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODgzMDM1MSwtODgyMzEwMzU4LDU3MT
-I2MDE3NCwtMTIwNzA3MDU3OSwtNzk4MjUwNzAyLC0xODkwMDM0
-MTEsLTI0MDIzODI3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNTg4NzQyNTgsLTg4MjMxMDM1OCw1Nz
+EyNjAxNzQsLTEyMDcwNzA1NzksLTc5ODI1MDcwMiwtMTg5MDAz
+NDExLC0yNDAyMzgyNzQsNzMwOTk4MTE2XX0=
 -->
