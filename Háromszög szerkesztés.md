@@ -28,8 +28,10 @@ $$ a = \dfrac{4Rrb}{b^2-2Rr} $$ Helyettesítve a másodikba
 $$ b^4 = 4R^2b^2-R^2\cdot \left(\dfrac{4Rrb}{b^2-2Rr}\right)^2 $$ Beszorozva $(b^2-2Rr)^2$-nel:
 $$ b^4 \cdot (b^2-2Rr)^2 = 4R^2b^2\cdot (b^2-2Rr)^2-16R^4r^2b^2 $$ Egyszerűsítve $b^2$-nel:
 $$ b^2 \cdot (b^2-2Rr)^2 = 4R^2\cdot (b^2-2Rr)^2-16R^4r^2 $$ Kibontva a zárójeleket:
-$$ b^2 \cdot (b^4 - 4Rrb^2 + 4R^2r^2) = 4R^2\cdot (b^4-4Rrb^2+4R^2r^2) - 16R^4r^2 $$ Vegyük észre, hogy jobboldalon beszorzás után a konstans
+$$ b^2 \cdot (b^4 - 4Rrb^2 + 4R^2r^2) = 4R^2\cdot (b^4-4Rrb^2+4R^2r^2) - 16R^4r^2 $$ Vegyük észre, hogy jobboldalon beszorzás után a konstans kiesik, tehát megint egyszerűsíthetünk $b^2$-tel:
+$$ \color{red}b^4 - 4Rrb^2+4R^2r^2=4R^2b^4-16R^3rb^2 $$
+A 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA1NjE0MDUsLTE4OTAwMzQxMSwtMj
+eyJoaXN0b3J5IjpbLTE1MjgzNTk3MTIsLTE4OTAwMzQxMSwtMj
 QwMjM4Mjc0LDczMDk5ODExNl19
 -->
