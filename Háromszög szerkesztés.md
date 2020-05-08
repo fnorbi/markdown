@@ -25,9 +25,10 @@ $$
 \begin{cases} ab^2 = 4Rrb+2Rra \\ b^4 = 4R^2b^2-R^2a^2  \end{cases}
 $$ Az első egyenletből kifejezve $a$-t:
 $$ a = \dfrac{4Rrb}{b^2-2Rr} $$ Helyettesítve a másodikba
-$$ b^4 = 4R^2b^2-R^2\cdot \dfrac{4Rrb}{ $$ Beszorozva $(b^2-2Rr)^2$-nel:
-$$ b^4 \cdot (b^2-2Rr)^2 = 4R^2b^2\cdot (b^2-2Rr)^2-16R^4r^2b^2 $$
+$$ b^4 = 4R^2b^2-R^2\cdot \left(\dfrac{4Rrb}{b^2-2Rr}\right)^2 $$ Beszorozva $(b^2-2Rr)^2$-nel:
+$$ b^4 \cdot (b^2-2Rr)^2 = 4R^2b^2\cdot (b^2-2Rr)^2-16R^4r^2b^2 $$ Egyszerűsítve $b^2$-nel:
+$$ b^2 \cdot (b^2-2Rr)^2 = 4R^2\cdot (b^2-2Rr)^2-16R^4r^2 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0OTcyOTU4LC0xODkwMDM0MTEsLTI0MD
-IzODI3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc5NTEzMjAxNCwtMTg5MDAzNDExLC0yND
+AyMzgyNzQsNzMwOTk4MTE2XX0=
 -->
