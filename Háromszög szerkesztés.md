@@ -33,8 +33,8 @@ $$b^4 - 4Rrb^2+4R^2r^2=4R^2b^4-16R^3rb^2 $$ A kapott egyenlet $b$-ben negyedfok�
 ## III. eset: $R$ és $m_b$ adottak
 
 ##  Egyéb eset:
-Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $
+Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a szerkesztéshez, akkor az is jó, ha mindhárom adat rendelkezésünkre áll. És persze az is világos, hogy ha $R$ és $m_b$ együttesen sem voltak elegek a szerkeszthetőséghez, akkor csupán egyikük sem lesz elegendő. Az egyetlen eset ami maradt, ha csakis $r$ adott, de ezt is könnyen letudhatjuk a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY5ODUwNTUsLTE4OTAwMzQxMSwtMj
-QwMjM4Mjc0LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTk2NDMyOTA5MiwtMTg5MDAzNDExLC0yND
+AyMzgyNzQsNzMwOTk4MTE2XX0=
 -->
