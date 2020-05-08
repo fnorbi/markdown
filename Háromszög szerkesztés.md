@@ -30,11 +30,13 @@ $$ b^4 \cdot (b^2-2Rr)^2 = 4R^2b^2\cdot (b^2-2Rr)^2-16R^4r^2b^2 $$ Egyszerűsít
 $$ b^2 \cdot (b^2-2Rr)^2 = 4R^2\cdot (b^2-2Rr)^2-16R^4r^2 $$ Kibontva a zárójeleket:
 $$ b^2 \cdot (b^4 - 4Rrb^2 + 4R^2r^2) = 4R^2\cdot (b^4-4Rrb^2+4R^2r^2) - 16R^4r^2 $$ Vegyük észre, hogy jobboldalon beszorzás után a konstans kiesik, tehát megint egyszerűsíthetünk $b^2$-tel:
 $$b^4 - 4Rrb^2+4R^2r^2=4R^2b^4-16R^3rb^2 $$ A kapott egyenlet $b$-ben negyedfokú, ami még jelenthetné azt, hogy $b$ foka $3$, viszont vegyük észre, hogy sem elsőfokú, sem harmadfokú tag nincs, tehát valójában ez az egyenlet $b^2$-ben másodfokú, tehát $b^2$ foka 1 vagy 2, azaz $b^2$ megszerkeszthető. Innen pedig a tanultak alapján $b$ is, tehát $a$ is, így a háromszög is.
+
 ## III. eset: $R$ és $m_b$ adottak
+$$\begin{cases} \dfrac{ab^2}{4R} = rs \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}$$
 
 ##  Egyéb eset:
-Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a szerkesztéshez, akkor az is jó, ha mindhárom adat rendelkezésünkre áll. És persze az is világos, hogy ha $R$ és $m_b$ együttesen sem voltak elegek a szerkeszthetőséghez, akkor csupán egyikük sem lesz elegendő. Az egyetlen eset ami maradt, ha csakis $r$ adott, de ezt is könnyen letudhatjuk a
+Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a szerkesztéshez, akkor az is jó, ha mindhárom adat rendelkezésünkre áll. A maradék három eset sem izgalmas: egyetlen adat a három közül nem határozza meg egyértelműen a háromszöget, így tehát az nem szerkeszthető meg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDMyOTA5MiwtMTg5MDAzNDExLC0yND
+eyJoaXN0b3J5IjpbLTc5ODI1MDcwMiwtMTg5MDAzNDExLC0yND
 AyMzgyNzQsNzMwOTk4MTE2XX0=
 -->
