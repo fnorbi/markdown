@@ -29,7 +29,7 @@ $$ b^4 = 4R^2b^2-R^2\cdot \left(\dfrac{4Rrb}{b^2-2Rr}\right)^2 $$ Beszorozva $(b
 $$ b^4 \cdot (b^2-2Rr)^2 = 4R^2b^2\cdot (b^2-2Rr)^2-16R^4r^2b^2 $$ Egyszerűsítve $b^2$-nel:
 $$ b^2 \cdot (b^2-2Rr)^2 = 4R^2\cdot (b^2-2Rr)^2-16R^4r^2 $$ Kibontva a zárójeleket:
 $$ b^2 \cdot (b^4 - 4Rrb^2 + 4R^2r^2) = 4R^2\cdot (b^4-4Rrb^2+4R^2r^2) - 16R^4r^2 $$ Vegyük észre, hogy jobboldalon beszorzás után a konstans kiesik, tehát megint egyszerűsíthetünk $b^2$-tel:
-$$b^4 - 4Rrb^2+4R^2r^2=4R^2b^4-16R^3rb^2 $$ A kapott egyenlet $b$-ben negyedfokú, ami még jelenthetné azt, hogy $b$ foka $3$, viszont vegyük észre, hogy sem elsőfokú, sem harmadfokú tag nincs, tehát valójában ez az egyenlet $b^2$-ben másodfokú, tehát $b^2$ foka 1 vagy 2, azaz $b^2$ megszerkeszthető. Innen pedig a tanultak alapján $b$ is, tehát $a$ is, így a háromszög is.
+$$b^4 - 4Rrb^2+4R^2r^2=4R^2b^2-16R^3r $$ A kapott egyenlet $b$-ben negyedfokú, ami még jelenthetné azt, hogy $b$ foka $3$, viszont vegyük észre, hogy sem elsőfokú, sem harmadfokú tag nincs, tehát valójában ez az egyenlet $b^2$-ben másodfokú, tehát $b^2$ foka 1 vagy 2, azaz $b^2$ megszerkeszthető. Innen pedig a tanultak alapján $b$ is, tehát $a$ is, így a háromszög is.
 
 ## III. eset: $R$ és $m_b$ adottak
 $$\begin{cases} \dfrac{ab^2}{4R} = \dfrac{bm_b}{2} \\ \dfrac{ab^2}{4R}= \dfrac{a}{2}\cdot \sqrt{b^2-\dfrac{a^2}{4} }  \end{cases}$$ A második egyenlet az előzőhöz hasonlóan
@@ -45,7 +45,7 @@ $$ c^3 - 4c^2 + 4 = 0 $$ Könnyen látható, hogy a kapott, $c$-ben harmadfokú 
 ##  Egyéb eset:
 Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a szerkesztéshez, akkor az is jó, ha mindhárom adat rendelkezésünkre áll. A maradék három eset sem izgalmas: egyetlen adat a három közül nem határozza meg egyértelműen a háromszöget, így tehát az nem szerkeszthető meg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMjYwMTc0LC0xMjA3MDcwNTc5LC03OT
-gyNTA3MDIsLTE4OTAwMzQxMSwtMjQwMjM4Mjc0LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbNDgzMzE2OTkwLDU3MTI2MDE3NCwtMTIwNz
+A3MDU3OSwtNzk4MjUwNzAyLC0xODkwMDM0MTEsLTI0MDIzODI3
+NCw3MzA5OTgxMTZdfQ==
 -->
