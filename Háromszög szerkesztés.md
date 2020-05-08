@@ -40,11 +40,11 @@ $$ b^4 = 4b^2 - \dfrac{4}{b^2} $$ azaz
 $$ b^6-4b^4+4=0 $$ Ez $b$-ben hatodfokú, ez még nem mond számunkra eleget $b$ fokáról. Legyen $c=b^2$, ekkor
 $$ c^3 - 4c^2 + 4 = 0 $$ Könnyen látható, hogy a kapott, $c$-ben harmadfokú egyenletnek nincs racionális gyöke. Ehhez racionális gyöktesztet kell végeznünk, a lehetséges jelöltek: $1, 2, 4$. Behelyettesítéssel látható, hogy gyik sem gyöke az $x^3-4x^2+4$ polinomnak, tehát mivel nincs racionális gyöke ennek a harmadfokú polinomnak, irreducibilis $\mathbb{Q}$ felett, így $\mathbb{Z}$ felett is. Ez viszont azt jelenti, hogy mivel $c$ gyöke neki, és irreducibilis a polinom, így ez $c$ minimálpolinomja, azaz $c$ foka 3.
 
-És kész is vagyunk, hiszen ekkor $b$ foka nem lehet 
+És kész is vagyunk, hiszen ekkor $b$ biztosan nem lehet megszerkeszthető, mert akkor $b^2=c$ is megszerkeszthető volna, de megszerkeszthető foka csakis $2$-hatvány lehet.
 
 ##  Egyéb eset:
 Mivel az $\{R,r,m_b\}$ halmaznak 8 részhalmaza van, még további 5 esetről nyilatkozni kell. Nyilvánvaló, hogy ha egyik adat sem adott (üres halmaz), akkor nem lehet megszerkeszteni a háromszöget. Hasonlóan nyilvánvaló, hogy ha már $r$ és $m_b$ is elegendőek voltak a szerkesztéshez, akkor az is jó, ha mindhárom adat rendelkezésünkre áll. A maradék három eset sem izgalmas: egyetlen adat a három közül nem határozza meg egyértelműen a háromszöget, így tehát az nem szerkeszthető meg.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzA4NjkwOCwtNzk4MjUwNzAyLC0xOD
-kwMDM0MTEsLTI0MDIzODI3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMDcwNzA1NzksLTc5ODI1MDcwMiwtMT
+g5MDAzNDExLC0yNDAyMzgyNzQsNzMwOTk4MTE2XX0=
 -->
