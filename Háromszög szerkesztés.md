@@ -24,8 +24,9 @@ $$ ab^2 = 4Rr\cdot \left( b+\dfrac{a}{2} \right) = 4Rrb+2Rra $$ Vagyis az egyenl
 $$
 \begin{cases} ab^2 = 4Rrb+2Rra \\ b^4 = 4R^2b^2-R^2a^2  \end{cases}
 $$ Az első egyenletből kifejezve $a$-t:
-$$ a = \dfrac{4Rrb $$
+$$ a = \dfrac{4Rrb}{b^2-2Rr} $$ Helyettesítve a másodikba és beszorozva $(b^2-2Rr)^2$-nel:
+$$ b^4 \cdot ( = 4R^2 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzOTc1NzQwLC0xODkwMDM0MTEsLTI0MD
-IzODI3NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQxNjA0NTg3NSwtMTg5MDAzNDExLC0yND
+AyMzgyNzQsNzMwOTk4MTE2XX0=
 -->
