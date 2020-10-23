@@ -380,7 +380,9 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{1}{2\sqrt{x}}\cdot \cos(x)$
 
+	c) $\dfrac{1}{2}\cdot \cos(x)\cdot \sin(x)$
 
+	d) $\dfrac{1}{2\sqrt{x}}\cdot \cos(x) + \sqrt{x} \cdot \sin(x)$
 
 18. $f(x)=\tg(x) \cdot \sqrt{x}$
 19. $f(x)=\sqrt{x} \cdot \cos(x)$
@@ -413,6 +415,6 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1ODA0NzkwLC0xMTk2NzA5MjQsMTIwNj
+eyJoaXN0b3J5IjpbNTg2NTY3MDA0LC0xMTk2NzA5MjQsMTIwNj
 AzNDIzOSwtMjA4MjY0NzU4Ml19
 -->
