@@ -504,9 +504,12 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	c) $\dfrac{\ln(x) \cdot (2-e^x) - \frac{1}{x} \cdot (2x-e^x)}{(2x-e^x)^2}$
 
-	d) $\dfrac{\frac{1}{x} \cdot (2x-e^x) - \ln(x) \cdot (2-e^x)}{(2x-e^x)^2}$
+	d) $\dfrac{\frac{1}{x} \cdot (2x-e^x) + \ln(x) \cdot (2-e^x)}{2x-e^x}$
 
 19. $f(x)=\dfrac{x^2+1}{\ln(x)}$
+
+	a) 
+
 20. $f(x)=\dfrac{\ln(x)}{e^x+2}$
 
 ### Összetett függvények
@@ -523,8 +526,8 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMjcwMzIsMTYzNjQ1OTY5NSwxNzU4Mz
-g2ODQzLC0yNjM0NDA4NzMsLTI3MjY0NTk2LC0xODc3NzI4NzIz
-LC0xNTU0NjkyNzY1LDIwMzI2MTE5NTIsLTExOTY3MDkyNCwxMj
-A2MDM0MjM5LC0yMDgyNjQ3NTgyXX0=
+eyJoaXN0b3J5IjpbMjAwNjA1OTY0OSw5MTAyNzAzMiwxNjM2ND
+U5Njk1LDE3NTgzODY4NDMsLTI2MzQ0MDg3MywtMjcyNjQ1OTYs
+LTE4Nzc3Mjg3MjMsLTE1NTQ2OTI3NjUsMjAzMjYxMTk1MiwtMT
+E5NjcwOTI0LDEyMDYwMzQyMzksLTIwODI2NDc1ODJdfQ==
 -->
