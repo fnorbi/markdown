@@ -624,12 +624,12 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{1}{x} \cdot \cos(x)$
 
-	c) $$
+	c) $\dfrac{1}{\sin(x) + 2} \cdot (\sin(x)+2)$
 
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjI1NTgxNiwtMTYzNzE0MDQ0LDExNj
+eyJoaXN0b3J5IjpbLTM2MzQ2Njk5NiwtMTYzNzE0MDQ0LDExNj
 kyNjExMzMsMTczMzMxMjIzMSw3NDg0OTgzMDAsNjkxNDI2MjU2
 LDEzNTczOTk5NzUsLTIxMjIyNzg4NzQsOTEwMjcwMzIsMTYzNj
 Q1OTY5NSwxNzU4Mzg2ODQzLC0yNjM0NDA4NzMsLTI3MjY0NTk2
