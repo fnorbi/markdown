@@ -602,17 +602,21 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	a) $\dfrac{1}{2 \sqrt{2e^x-1}} \cdot 2e^x$
 
-	b) $$$$
+	b) $\dfrac{1}{2 \sqrt{x}} \cdot 2e^x$
+
+	c) $\dfrac{1}{2 \sqrt{2e^x-1}} \cdot (2e^x-1)$
+
+	d) $\dfrac{1}{2 \sqrt{2e^x}}$
 
 18. $f(x)=\sqrt{x^2+1}$
 19. $f(x)=\ln(\sin(x)+2)$
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUwOTY4ODMsMTE2OTI2MTEzMywxNz
-MzMzEyMjMxLDc0ODQ5ODMwMCw2OTE0MjYyNTYsMTM1NzM5OTk3
-NSwtMjEyMjI3ODg3NCw5MTAyNzAzMiwxNjM2NDU5Njk1LDE3NT
-gzODY4NDMsLTI2MzQ0MDg3MywtMjcyNjQ1OTYsLTE4Nzc3Mjg3
-MjMsLTE1NTQ2OTI3NjUsMjAzMjYxMTk1MiwtMTE5NjcwOTI0LD
-EyMDYwMzQyMzksLTIwODI2NDc1ODJdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzUwOTM5MCwxMTY5MjYxMTMzLDE3Mz
+MzMTIyMzEsNzQ4NDk4MzAwLDY5MTQyNjI1NiwxMzU3Mzk5OTc1
+LC0yMTIyMjc4ODc0LDkxMDI3MDMyLDE2MzY0NTk2OTUsMTc1OD
+M4Njg0MywtMjYzNDQwODczLC0yNzI2NDU5NiwtMTg3NzcyODcy
+MywtMTU1NDY5Mjc2NSwyMDMyNjExOTUyLC0xMTk2NzA5MjQsMT
+IwNjAzNDIzOSwtMjA4MjY0NzU4Ml19
 -->
