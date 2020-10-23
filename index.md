@@ -410,9 +410,9 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{1}{2\sqrt{x}} \cdot \dfrac{1}{\cos^2(x)}$
 
-	c) $\dfrac{1}{\cos^2(x)} \cdot \dfrac{1}{2\sqrt{x}} \cdot \tg(x) \cdot \sqrt{x}$
+	c) $\dfrac{1}{2} \cdot \dfrac{1}{\cos^2(x)} \cdot \tg(x)$
 
-	d) $\dfrac{1}{\cos^2(x)} \cdot \dfrac{1}{2\sqrt{x}} + \tg(x) \cdot \sqrt{x}$
+	d) $\dfrac{1}{2\sqrt{x}} \cdot \dfrac{1}{\cos^2(x)} + \sqrt{x} \cdot \tg(x)$
 
 ### Hányadosok
 
@@ -441,6 +441,6 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzM2NjIzOSwyMDMyNjExOTUyLC0xMT
-k2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0NzU4Ml19
+eyJoaXN0b3J5IjpbLTE1NTQ2OTI3NjUsMjAzMjYxMTk1MiwtMT
+E5NjcwOTI0LDEyMDYwMzQyMzksLTIwODI2NDc1ODJdfQ==
 -->
