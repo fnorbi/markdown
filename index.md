@@ -624,15 +624,17 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{1}{x} \cdot \cos(x)$
 
-	c) $\dfrac{1}{\sin(x) + 2} \cdot (\sin(x)+2)$
+	c) $\dfrac{1}{\sin(x)+2}$
+
+	d) $$
 
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzQ2Njk5NiwtMTYzNzE0MDQ0LDExNj
-kyNjExMzMsMTczMzMxMjIzMSw3NDg0OTgzMDAsNjkxNDI2MjU2
-LDEzNTczOTk5NzUsLTIxMjIyNzg4NzQsOTEwMjcwMzIsMTYzNj
-Q1OTY5NSwxNzU4Mzg2ODQzLC0yNjM0NDA4NzMsLTI3MjY0NTk2
-LC0xODc3NzI4NzIzLC0xNTU0NjkyNzY1LDIwMzI2MTE5NTIsLT
-ExOTY3MDkyNCwxMjA2MDM0MjM5LC0yMDgyNjQ3NTgyXX0=
+eyJoaXN0b3J5IjpbLTE0ODY0MzUyMjQsLTE2MzcxNDA0NCwxMT
+Y5MjYxMTMzLDE3MzMzMTIyMzEsNzQ4NDk4MzAwLDY5MTQyNjI1
+NiwxMzU3Mzk5OTc1LC0yMTIyMjc4ODc0LDkxMDI3MDMyLDE2Mz
+Y0NTk2OTUsMTc1ODM4Njg0MywtMjYzNDQwODczLC0yNzI2NDU5
+NiwtMTg3NzcyODcyMywtMTU1NDY5Mjc2NSwyMDMyNjExOTUyLC
+0xMTk2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0NzU4Ml19
 -->
