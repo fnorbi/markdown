@@ -564,11 +564,14 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\cos(x) \cdot (-\sin(x))$
 
-	c) $\cos(\cos(x)+1)\cdot(\cos(x)+1)$
+	c) $\cos(\cos(x)+1) \cdot(\cos(x)+1)$
 
 	d) $\cos(-\sin(x))$
 
 14. $f(x)=\cos(\sqrt{x})$
+
+	
+
 15. $f(x)=\cos(x^3+2)$
 16. $f(x)=\sqrt{\cos(x)}$
 17. $f(x)=\sqrt{2e^x-1}$
@@ -577,10 +580,10 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDgxNDQ1NSw3NDg0OTgzMDAsNjkxND
-I2MjU2LDEzNTczOTk5NzUsLTIxMjIyNzg4NzQsOTEwMjcwMzIs
-MTYzNjQ1OTY5NSwxNzU4Mzg2ODQzLC0yNjM0NDA4NzMsLTI3Mj
-Y0NTk2LC0xODc3NzI4NzIzLC0xNTU0NjkyNzY1LDIwMzI2MTE5
-NTIsLTExOTY3MDkyNCwxMjA2MDM0MjM5LC0yMDgyNjQ3NTgyXX
-0=
+eyJoaXN0b3J5IjpbLTE5MjM4NzcwNTUsNzQ4NDk4MzAwLDY5MT
+QyNjI1NiwxMzU3Mzk5OTc1LC0yMTIyMjc4ODc0LDkxMDI3MDMy
+LDE2MzY0NTk2OTUsMTc1ODM4Njg0MywtMjYzNDQwODczLC0yNz
+I2NDU5NiwtMTg3NzcyODcyMywtMTU1NDY5Mjc2NSwyMDMyNjEx
+OTUyLC0xMTk2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0NzU4Ml
+19
 -->
