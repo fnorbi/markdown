@@ -224,31 +224,31 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 	
 12. $f(x)=\dfrac{1}{(x+1)^2}$
 
-	a) $-2\cdot (x+1)^{-3}$
+	a) $-2 \cdot (x+1)^{-3}$
 
-	b) $\dfrac{1}{2\cdot (x+1)}$
+	b) $\dfrac{1}{2 \cdot (x+1)}$
 
 	c) $\dfrac{2}{(x+1)^3}$
 
-	d) $2\cdot (x+1)^{-1}$
+	d) $2 \cdot (x+1)^{-1}$
 
 13. $f(x)=\dfrac{1}{(x-3)^2}$
 
-	a) $-2\cdot (x-3)^{-3}$
+	a) $-2 \cdot (x-3)^{-3}$
 
-	b) $\dfrac{1}{2\cdot(x-3)}$
+	b) $\dfrac{1}{2 \cdot(x-3)}$
 
 	c) $\dfrac{2}{(x-3)^3}$
 
-	d) $2\cdot (x-3)^{-1}$
+	d) $2 \cdot (x-3)^{-1}$
 
 14. $f(x)=\sqrt{x-2}$
 
-	a) $\frac{1}{2}\cdot (x-2)^{-\frac{1}{2}}$
+	a) $\frac{1}{2} \cdot (x-2)^{-\frac{1}{2}}$
 	
 	b) $\dfrac{1}{\sqrt{x-2}}$
 
-	c) $-2\cdot (x-2)^{-3}$
+	c) $-2 \cdot (x-2)^{-3}$
 
 	d) $\frac{1}{2} \cdot \sqrt{x-2}$
 
@@ -398,7 +398,9 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	a) $\dfrac{1}{2\sqrt{x}} \cdot \cos(x) - \sqrt{x} \cdot \sin(x)$
 
-	b) $\dfrac{1}{2\sqrt{x}} \cdot 
+	b) $- \dfrac{1}{2\sqrt{x}} \cdot \sin(x)$
+
+	c) $$
 
 20. $f(x)=\sqrt{x} \cdot \tg(x)$
 
@@ -429,6 +431,6 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzQyNzY5OSwyMDMyNjExOTUyLC0xMT
-k2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0NzU4Ml19
+eyJoaXN0b3J5IjpbLTE3OTQxODY0MTksMjAzMjYxMTk1MiwtMT
+E5NjcwOTI0LDEyMDYwMzQyMzksLTIwODI2NDc1ODJdfQ==
 -->
