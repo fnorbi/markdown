@@ -424,7 +424,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	c) $\dfrac{f \cdot g' - f' \cdot g}{g}$
 
-	d) $\dfrac{f\cdot g' + f' \cdot g}{g^2}$
+	d) $\dfrac{f' \cdot g + f \cdot g'}{g^2}$
 
 11. $f(x)=\dfrac{3-e^x}{\ln(x)}$
 
@@ -432,9 +432,9 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{-e^x}{\frac{1}{x}}$
 
-	c) $\dfrac{(3-e^x) \cdot \frac{1}{x} + e^x \cdot \ln(x)}{\ln^2(x)}$
+	c) $\dfrac{(3-e^x) \cdot \frac{1}{x} + e^x \cdot \ln(x)}{\ln(x)}$
 
-	d) $\dfrac{}{\ln(x)}$
+	d) $\dfrac{-e^x \cdot \ln(x) + (3-e^x) \cdot \frac{1}{x}}{\ln^2(x)}$
 
 12. $f(x)=\dfrac{\ln(x)}{\sin(x)}$
 13. $f(x)=\dfrac{\cos(x)}{\ln(x)}$
@@ -460,7 +460,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg5MTMyNTcsLTE4Nzc3Mjg3MjMsLT
-E1NTQ2OTI3NjUsMjAzMjYxMTk1MiwtMTE5NjcwOTI0LDEyMDYw
-MzQyMzksLTIwODI2NDc1ODJdfQ==
+eyJoaXN0b3J5IjpbLTI3MjY0NTk2LC0xODc3NzI4NzIzLC0xNT
+U0NjkyNzY1LDIwMzI2MTE5NTIsLTExOTY3MDkyNCwxMjA2MDM0
+MjM5LC0yMDgyNjQ3NTgyXX0=
 -->
