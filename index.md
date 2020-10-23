@@ -619,13 +619,16 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 	d) $\dfrac{1}{2 \sqrt{2x}}$
 
 19. $f(x)=\ln(\sin(x)+2)$
+
+	a) $\dfrac{1}{\sin(x) + 2} \cdot \cos(x)$
+
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMzk5NjY3LDExNjkyNjExMzMsMTczMz
-MxMjIzMSw3NDg0OTgzMDAsNjkxNDI2MjU2LDEzNTczOTk5NzUs
-LTIxMjIyNzg4NzQsOTEwMjcwMzIsMTYzNjQ1OTY5NSwxNzU4Mz
-g2ODQzLC0yNjM0NDA4NzMsLTI3MjY0NTk2LC0xODc3NzI4NzIz
-LC0xNTU0NjkyNzY1LDIwMzI2MTE5NTIsLTExOTY3MDkyNCwxMj
-A2MDM0MjM5LC0yMDgyNjQ3NTgyXX0=
+eyJoaXN0b3J5IjpbLTE2MzcxNDA0NCwxMTY5MjYxMTMzLDE3Mz
+MzMTIyMzEsNzQ4NDk4MzAwLDY5MTQyNjI1NiwxMzU3Mzk5OTc1
+LC0yMTIyMjc4ODc0LDkxMDI3MDMyLDE2MzY0NTk2OTUsMTc1OD
+M4Njg0MywtMjYzNDQwODczLC0yNzI2NDU5NiwtMTg3NzcyODcy
+MywtMTU1NDY5Mjc2NSwyMDMyNjExOTUyLC0xMTk2NzA5MjQsMT
+IwNjAzNDIzOSwtMjA4MjY0NzU4Ml19
 -->
