@@ -528,6 +528,16 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 ### Összetett függvények
 
+10. Válaszok:
+
+	a) $f'(g(x)) \cdot g'(x)$
+
+	b) $f'(x) \cdot g'(x)$
+
+	c) $f'(g(x)) \cdot g(x)$
+
+	d) $f'(g'(x))$
+
 11. $f(x)=\ln(3x^2+1)$
 
 	a) $\dfrac{1}{3x^2+1} \cdot 6x$
@@ -567,7 +577,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzQ0MzAxMiw3NDg0OTgzMDAsNjkxND
+eyJoaXN0b3J5IjpbLTg5MDgxNDQ1NSw3NDg0OTgzMDAsNjkxND
 I2MjU2LDEzNTczOTk5NzUsLTIxMjIyNzg4NzQsOTEwMjcwMzIs
 MTYzNjQ1OTY5NSwxNzU4Mzg2ODQzLC0yNjM0NDA4NzMsLTI3Mj
 Y0NTk2LC0xODc3NzI4NzIzLC0xNTU0NjkyNzY1LDIwMzI2MTE5
