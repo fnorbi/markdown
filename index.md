@@ -534,11 +534,16 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{1}{x} \cdot 6x$
 
-	c) $1$
+	c) $\dfrac{1}{3x^2+1} \cdot \ln(3x^2+1)$
 
 	d) $\dfrac{1}{3x^2+1}$
 
 12. $f(x)=\sqrt{\sin(x)}$
+
+	a) $\dfrac{1}{2 \sqrt{\sin(x)}} \cdot \cos(x)$
+
+	b) $\dfrac{1}{2 \sqrt{x}}$
+
 13. $f(x)=\sin(\cos(x)+1)$
 14. $f(x)=\cos(\sqrt{x})$
 15. $f(x)=\cos(x^3+2)$
@@ -549,7 +554,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxODUxODg2LDEzNTczOTk5NzUsLTIxMj
+eyJoaXN0b3J5IjpbNjk5MjQ3NjQxLDEzNTczOTk5NzUsLTIxMj
 IyNzg4NzQsOTEwMjcwMzIsMTYzNjQ1OTY5NSwxNzU4Mzg2ODQz
 LC0yNjM0NDA4NzMsLTI3MjY0NTk2LC0xODc3NzI4NzIzLC0xNT
 U0NjkyNzY1LDIwMzI2MTE5NTIsLTExOTY3MDkyNCwxMjA2MDM0
