@@ -462,7 +462,9 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{\frac{1}{2 \sqrt{x}}}{\frac{1}{x}}$
 
-	c) $\dfrac{}{\ln^2(x)}$
+	c) $\dfrac{\sqrt{x} \cdot \frac{1}{x} - \frac{1}{2 \sqrt{x}} \cdot \ln(x)}{\ln^2(x)}$
+
+	d) $\dfrac{\frac{1}{2 \sqrt{x}} \cdot \ln(x) + \sqrt{x} \cdot \frac{1}{x}}{\ln(x)}$
 
 15. $f(x)=\dfrac{\tg(x)}{e^x}$
 16. $f(x)=\dfrac{\sqrt{x}}{\sin(x)}$
@@ -485,7 +487,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODQyNjQ4MSwtMjcyNjQ1OTYsLTE4Nz
+eyJoaXN0b3J5IjpbLTI2MzQ0MDg3MywtMjcyNjQ1OTYsLTE4Nz
 c3Mjg3MjMsLTE1NTQ2OTI3NjUsMjAzMjYxMTk1MiwtMTE5Njcw
 OTI0LDEyMDYwMzQyMzksLTIwODI2NDc1ODJdfQ==
 -->
