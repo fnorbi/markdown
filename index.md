@@ -418,7 +418,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 11. $f(x)=\dfrac{3-e^x}{\ln(x)}$
 
-	a) $$
+	a) $\dfrac{-e^x \cdot \ln(x) - (3-e^x) \cdot \dfrac{1}{x}}{\ln^2(x)}$
 
 12. $f(x)=\dfrac{\ln(x)}{\sin(x)}$
 13. $f(x)=\dfrac{\cos(x)}{\ln(x)}$
@@ -444,7 +444,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjkxNDc3MSwtMTg3NzcyODcyMywtMT
+eyJoaXN0b3J5IjpbMjA5NzE0MjgxNSwtMTg3NzcyODcyMywtMT
 U1NDY5Mjc2NSwyMDMyNjExOTUyLC0xMTk2NzA5MjQsMTIwNjAz
 NDIzOSwtMjA4MjY0NzU4Ml19
 -->
