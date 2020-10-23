@@ -524,6 +524,8 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	c) $\dfrac{\ln(x) \cdot e^x - \frac{1}{x} \cdot (e^x+2)}{(e^x+2)^2}$
 
+	d) $\dfrac{\frac{1}{x} \cdot (e^x+2) + \ln(x) \cdot e^x}{e^x+2}$
+
 ### Összetett függvények
 
 11. $f(x)=\ln(3x^2+1)$
@@ -538,7 +540,7 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY0OTA1NzgsOTEwMjcwMzIsMTYzNj
+eyJoaXN0b3J5IjpbLTIxMjIyNzg4NzQsOTEwMjcwMzIsMTYzNj
 Q1OTY5NSwxNzU4Mzg2ODQzLC0yNjM0NDA4NzMsLTI3MjY0NTk2
 LC0xODc3NzI4NzIzLC0xNTU0NjkyNzY1LDIwMzI2MTE5NTIsLT
 ExOTY3MDkyNCwxMjA2MDM0MjM5LC0yMDgyNjQ3NTgyXX0=
