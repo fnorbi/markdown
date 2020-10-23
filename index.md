@@ -250,17 +250,17 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	c) $-2\cdot (x-2)^{-3}$
 
-	d) $\frac{1}{2}\cdot \sqrt{x-2}$
+	d) $\frac{1}{2} \cdot \sqrt{x-2}$
 
 15. $f(x)=\sqrt{x+1}$
 
-	a) $\frac{1}{2}\cdot (x+1)^{-\frac{1}{2}}$
+	a) $\frac{1}{2} \cdot (x+1)^{-\frac{1}{2}}$
 	
 	b) $\dfrac{1}{\sqrt{x+1}}$
 
-	c) $-2\cdot (x+1)^{-3}$
+	c) $-2 \cdot (x+1)^{-3}$
 
-	d) $\frac{1}{2}\cdot \sqrt{x+1}$
+	d) $\frac{1}{2} \cdot \sqrt{x+1}$
 
 16. $f(x)=\dfrac{1}{x}-x$
 
@@ -278,75 +278,75 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 	b) $\dfrac{4}{x^5}$
 
-	c) $\dfrac{1}{4\cdot x^3}$
+	c) $\dfrac{1}{4 \cdot x^3}$
 
-	d) $-4\cdot x^{-3}$
+	d) $-4 \cdot x^{-3}$
 
 18. $f(x)=\sqrt[3]{x-1}$
 
-	a) $\frac{1}{3}\cdot (x-1)^{-\frac{2}{3}}$
+	a) $\frac{1}{3} \cdot (x-1)^{-\frac{2}{3}}$
 	
-	b) $\dfrac{1}{3\cdot \sqrt[3]{x-1}}$
+	b) $\dfrac{1}{3 \cdot \sqrt[3]{x-1}}$
 
-	c) $\frac{3}{2}\cdot (x-1)^{\frac{1}{2}}$
+	c) $\frac{3}{2} \cdot (x-1)^{\frac{1}{2}}$
 
-	d) $\dfrac{1}{3\cdot (x-1)^{-\frac{2}{3}}}$
+	d) $\dfrac{1}{3 \cdot (x-1)^{-\frac{2}{3}}}$
 
 19. $f(x)=\sqrt[3]{x+2}$
 
-	a) $\frac{1}{3}\cdot (x+2)^{-\frac{2}{3}}$
+	a) $\frac{1}{3} \cdot (x+2)^{-\frac{2}{3}}$
 	
-	b) $\dfrac{1}{3\cdot \sqrt[3]{x+2}}$
+	b) $\dfrac{1}{3 \cdot \sqrt[3]{x+2}}$
 
-	c) $\frac{3}{2}\cdot (x+2)^{\frac{1}{2}}$
+	c) $\frac{3}{2} \cdot (x+2)^{\frac{1}{2}}$
 
-	d) $\dfrac{1}{3\cdot (x+2)^{-\frac{2}{3}}}$
+	d) $\dfrac{1}{3 \cdot (x+2)^{-\frac{2}{3}}}$
 
 20. $f(x)=\dfrac{1}{\sqrt[4]{x}}$
 
-	a) $-\frac{1}{4}\cdot x^{-\frac{5}{4}}$
+	a) $-\frac{1}{4} \cdot x^{-\frac{5}{4}}$
 
-	b) $\dfrac{1}{4\cdot x^{\frac{5}{4}}}$
+	b) $\dfrac{1}{4 \cdot x^{\frac{5}{4}}}$
 
-	c) $-4\cdot \dfrac{1}{\sqrt[5]{x}}$
+	c) $-4 \cdot \dfrac{1}{\sqrt[5]{x}}$
 
-	d) $-\frac{1}{4}\cdot \sqrt[4]{x^5}$
+	d) $-\frac{1}{4} \cdot \sqrt[4]{x^5}$
 
 ### Szorzatok
 
 11. $f(x)=e^x \cdot \sqrt{x}$
 
-	a) $e^x\cdot \sqrt{x} + e^x\cdot \dfrac{1}{2\sqrt{x}}$
+	a) $e^x \cdot \sqrt{x} + e^x \cdot \dfrac{1}{2\sqrt{x}}$
 
-	b) $e^x\cdot \dfrac{1}{2\sqrt{x}}$
+	b) $e^x \cdot \dfrac{1}{2\sqrt{x}}$
 
-	c) $e^x\cdot \dfrac{1}{2\sqrt{x}}\cdot e^x \cdot \sqrt{x}$
+	c) $e^x \cdot \dfrac{1}{2\sqrt{x}}\cdot e^x \cdot \sqrt{x}$
 
-	d) $\dfrac{e^x\cdot (2x-1)}{2\sqrt{x}}$
+	d) $\dfrac{e^x \cdot (2x-1)}{2\sqrt{x}}$
 
 12. $f(x)=\ln(x) \cdot \sin(x)$
 
-	a) $\dfrac{1}{x}\cdot \sin(x) + \ln(x)\cdot \cos(x)$
+	a) $\dfrac{1}{x} \cdot \sin(x) + \ln(x) \cdot \cos(x)$
 
-	b) $\dfrac{1}{x}\cdot \cos(x)$
+	b) $\dfrac{1}{x} \cdot \cos(x)$
 
-	c) $\dfrac{1}{x}\cdot \cos(x) \cdot \ln(x) \cdot \sin(x)$
+	c) $\dfrac{1}{x} \cdot \cos(x) \cdot \ln(x) \cdot \sin(x)$
 
-	d) $\dfrac{1}{x}\cdot \cos(x) + \ln(x) \cdot \sin(x)$
+	d) $\dfrac{1}{x} \cdot \cos(x) + \ln(x) \cdot \sin(x)$
 
 13. $f(x)=\cos(x) \cdot \ln(x)$
 
-	a) $-\sin(x)\cdot \ln(x) + \cos(x)\cdot \dfrac{1}{x}$
+	a) $-\sin(x) \cdot \ln(x) + \cos(x) \cdot \dfrac{1}{x}$
 
-	b) $-\sin(x)\cdot \dfrac{1}{x}$
+	b) $-\sin(x) \cdot \dfrac{1}{x}$
 
-	c) $-\sin(x)\cdot \dfrac{1}{x} \cdot \cos(x) \cdot \ln(x)$
+	c) $-\sin(x) \cdot \dfrac{1}{x} \cdot \cos(x) \cdot \ln(x)$
 
-	d) $-\sin(x)\cdot \dfrac{1}{x} + \cos(x) \cdot \ln(x)$
+	d) $-\sin(x) \cdot \dfrac{1}{x} + \cos(x) \cdot \ln(x)$
 
 14. $f(x)=\sqrt{x} \cdot \ln(x)$
 
-	a) $\dfrac{1}{2\sqrt{x}}\cdot \ln(x) + \sqrt{x}\cdot \dfrac{1}{x}$
+	a) $\dfrac{1}{2\sqrt{x}} \cdot \ln(x) + \sqrt{x} \cdot \dfrac{1}{x}$
 
 	b) $\dfrac{1}{2\sqrt{x}} \cdot  \dfrac{1}{x}$
 
@@ -356,27 +356,27 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 15. $f(x)=\ln(x) \cdot \tg(x)$
 
-	a) $\dfrac{1}{x}\cdot \tg(x) + \ln(x) \cdot \dfrac{1}{\cos^2(x)}$
+	a) $\dfrac{1}{x} \cdot \tg(x) + \ln(x) \cdot \dfrac{1}{\cos^2(x)}$
 
-	b) $\dfrac{1}{x}\cdot \dfrac{1}{\cos^2(x)}$
+	b) $\dfrac{1}{x} \cdot \dfrac{1}{\cos^2(x)}$
 
-	c) $\dfrac{1}{x}\cdot \dfrac{1}{\cos^2(x)} \cdot \ln(x) \cdot \tg(x)$
+	c) $\dfrac{1}{x} \cdot \dfrac{1}{\cos^2(x)} \cdot \ln(x) \cdot \tg(x)$
 
-	d) $\dfrac{1}{x}\cdot \dfrac{1}{\cos^2(x)} + \ln(x) \cdot \tg(x)$
+	d) $\dfrac{1}{x} \cdot \dfrac{1}{\cos^2(x)} + \ln(x) \cdot \tg(x)$
 
 16. $f(x)=\sin(x) \cdot \cos(x)$
 
-	a) $\cos(x)\cdot \cos(x) - \sin(x) \cdot \sin(x)$
+	a) $\cos(x) \cdot \cos(x) - \sin(x) \cdot \sin(x)$
 
-	b) $-\cos(x)\cdot \sin(x)$
+	b) $-\cos(x) \cdot \sin(x)$
 
-	c) $-\cos(x)\cdot \sin(x)\cdot \sin(x) \cdot \cos(x)$
+	c) $-\cos(x) \cdot \sin(x) \cdot \sin(x) \cdot \cos(x)$
 
 	d) $1$
 
 17. $f(x)=\sqrt{x} \cdot \sin(x)$
 
-	a) $\dfrac{1}{2\sqrt{x}} \cdot \sin(x) + \sqrt{x}\cdot \cos(x)$
+	a) $\dfrac{1}{2\sqrt{x}} \cdot \sin(x) + \sqrt{x} \cdot \cos(x)$
 
 	b) $\dfrac{1}{2\sqrt{x}} \cdot \cos(x)$
 
@@ -429,6 +429,6 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk2OTQ4MzEsMjAzMjYxMTk1MiwtMT
-E5NjcwOTI0LDEyMDYwMzQyMzksLTIwODI2NDc1ODJdfQ==
+eyJoaXN0b3J5IjpbLTQwMzQyNzY5OSwyMDMyNjExOTUyLC0xMT
+k2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0NzU4Ml19
 -->
