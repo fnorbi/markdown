@@ -529,6 +529,11 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 ### Összetett függvények
 
 11. $f(x)=\ln(3x^2+1)$
+
+	a) $\dfrac{1}{3x^2+1}\cdot 6x$
+
+	b) $\dfrac{1}{x}\cdot $
+
 12. $f(x)=\sqrt{\sin(x)}$
 13. $f(x)=\sin(\cos(x)+1)$
 14. $f(x)=\cos(\sqrt{x})$
@@ -536,12 +541,13 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 16. $f(x)=\sqrt{\cos(x)}$
 17. $f(x)=\sqrt{2e^x-1}$
 18. $f(x)=\sqrt{x^2+1}$
-18. $f(x)=\ln(\sin(x)+2)$
-19. $f(x)=\cos(\ln(x)-1)$
-20. $f(x)=4\ln(2-3x)$
+19. $f(x)=\ln(\sin(x)+2)$
+20. $f(x)=\cos(\ln(x)-1)$
+21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIyNzg4NzQsOTEwMjcwMzIsMTYzNj
-Q1OTY5NSwxNzU4Mzg2ODQzLC0yNjM0NDA4NzMsLTI3MjY0NTk2
-LC0xODc3NzI4NzIzLC0xNTU0NjkyNzY1LDIwMzI2MTE5NTIsLT
-ExOTY3MDkyNCwxMjA2MDM0MjM5LC0yMDgyNjQ3NTgyXX0=
+eyJoaXN0b3J5IjpbNjU0MDgwODEyLC0yMTIyMjc4ODc0LDkxMD
+I3MDMyLDE2MzY0NTk2OTUsMTc1ODM4Njg0MywtMjYzNDQwODcz
+LC0yNzI2NDU5NiwtMTg3NzcyODcyMywtMTU1NDY5Mjc2NSwyMD
+MyNjExOTUyLC0xMTk2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0
+NzU4Ml19
 -->
