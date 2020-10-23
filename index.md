@@ -376,17 +376,17 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 17. $f(x)=\sqrt{x} \cdot \sin(x)$
 
-	a) $\dfrac{1}{2\sqrt{x}}\cdot \sin(x) + \sqrt{x}\cdot \cos(x)$
+	a) $\dfrac{1}{2\sqrt{x}} \cdot \sin(x) + \sqrt{x}\cdot \cos(x)$
 
-	b) $\dfrac{1}{2\sqrt{x}}\cdot \cos(x)$
+	b) $\dfrac{1}{2\sqrt{x}} \cdot \cos(x)$
 
-	c) $\dfrac{1}{2}\cdot \cos(x)\cdot \sin(x)$
+	c) $\dfrac{1}{2} \cdot \cos(x)\cdot \sin(x)$
 
-	d) $\dfrac{1}{2\sqrt{x}}\cdot \cos(x) + \sqrt{x} \cdot \sin(x)$
+	d) $\dfrac{1}{2\sqrt{x}} \cdot \cos(x) + \sqrt{x} \cdot \sin(x)$
 
 18. $f(x)=\tg(x) \cdot \sqrt{x}$
 
-	a) $\dfrac{1}{\cos^2(x)}\cdot \sqrt{x} + \tg(x) \cdot \dfrac{1}{2\sqrt{x}}$
+	a) $\dfrac{1}{\cos^2(x)} \cdot \sqrt{x} + \tg(x) \cdot \dfrac{1}{2\sqrt{x}}$
 
 	b) $\dfrac{1}{\cos^2(x)} \cdot \dfrac{1}{2\sqrt{x}}$
 
@@ -395,6 +395,11 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 	d) $\dfrac{1}{\cos^2(x)} \cdot \dfrac{1}{2\sqrt{x}} + \tg(x) \cdot \sqrt{x}$
 
 19. $f(x)=\sqrt{x} \cdot \cos(x)$
+
+	a) $\dfrac{1}{2\sqrt{x}} \cdot \cos(x) - \sqrt{x} \cdot \sin(x)$
+
+	b) $\dfrac{1}{2\sqrt{x}} \cdot 
+
 20. $f(x)=\sqrt{x} \cdot \tg(x)$
 
 ### Hányadosok
@@ -424,6 +429,6 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 19. $f(x)=\cos(\ln(x)-1)$
 20. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjYxMTk1MiwtMTE5NjcwOTI0LDEyMD
-YwMzQyMzksLTIwODI2NDc1ODJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTk2OTQ4MzEsMjAzMjYxMTk1MiwtMT
+E5NjcwOTI0LDEyMDYwMzQyMzksLTIwODI2NDc1ODJdfQ==
 -->
