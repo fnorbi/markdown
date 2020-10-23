@@ -570,7 +570,9 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 
 14. $f(x)=\cos(\sqrt{x})$
 
-	
+	a) $-\sin(\sqrt{x}) \cdot \dfrac{1}{2 \sqrt{x}}$
+
+	b) $-\sin(x) \cdot \dfrac{1}{2$
 
 15. $f(x)=\cos(x^3+2)$
 16. $f(x)=\sqrt{\cos(x)}$
@@ -580,10 +582,9 @@ c) Mennyit kértünk kölcsön, ha a kamatláb 12% és 3600 volt a kamat?
 20. $f(x)=\cos(\ln(x)-1)$
 21. $f(x)=4\ln(2-3x)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM4NzcwNTUsNzQ4NDk4MzAwLDY5MT
-QyNjI1NiwxMzU3Mzk5OTc1LC0yMTIyMjc4ODc0LDkxMDI3MDMy
-LDE2MzY0NTk2OTUsMTc1ODM4Njg0MywtMjYzNDQwODczLC0yNz
-I2NDU5NiwtMTg3NzcyODcyMywtMTU1NDY5Mjc2NSwyMDMyNjEx
-OTUyLC0xMTk2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0NzU4Ml
-19
+eyJoaXN0b3J5IjpbNjQzNDk3MzEsNzQ4NDk4MzAwLDY5MTQyNj
+I1NiwxMzU3Mzk5OTc1LC0yMTIyMjc4ODc0LDkxMDI3MDMyLDE2
+MzY0NTk2OTUsMTc1ODM4Njg0MywtMjYzNDQwODczLC0yNzI2ND
+U5NiwtMTg3NzcyODcyMywtMTU1NDY5Mjc2NSwyMDMyNjExOTUy
+LC0xMTk2NzA5MjQsMTIwNjAzNDIzOSwtMjA4MjY0NzU4Ml19
 -->
